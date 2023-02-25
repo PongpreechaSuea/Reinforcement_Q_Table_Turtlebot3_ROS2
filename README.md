@@ -2,22 +2,22 @@
  
 You will need to install ROS2 on window first.
 with the following steps:
-1. install WSL2 :
+1. Install WSL2 :
 
         wsl --install
-2. turn windows featuers on or off | choose :
+2. Turn windows featuers on or off | choose :
 
         [x] Virtual Machine Platform
         [x] Windows Subsystem for Linux
         click OK
 
-3. install Ubuntu 22.04 :
+3. Install Ubuntu 22.04 :
 
         wsl --install -d Ubuntu-22.04
-4. open Command Prompt or terminal | Ubuntu :
+4. Open Command Prompt or terminal | Ubuntu :
 
         wsl
-5. install ROS2 Humble : 
+5. Install ROS2 Humble : 
 
         sudo apt update && sudo apt install locales
         sudo locale-gen en_US en_US.UTF-8
@@ -36,6 +36,15 @@ with the following steps:
         echo "source  /opt/ros/humble/setup.bash" >> ~/.bashrc
         echo "export  TURTLEBOT3_MODEL=burger" >> ~/.bashrc
     
+6. Restart windows and run command :
+
+        wsl
+        ros2  launch  turtlebot3_gazebo  turtlebot3_house.launch.py
+7. Open a new cmd/terminal and run command :
+
+        wsl
+        ros2  run  turtlebot3_teleop  teleop_keyboard
+
 ##### ADD TURTLEBOT3
         export TURTLEBOT3_MODEL=burger
 
