@@ -1,0 +1,5412 @@
+
+---------------------------------------
+
+Episode 1 ==> CRASH {-0.36,1.11,91.57}    22/02/2023 16:17:18
+episode time: 10.32 s (avg step: 0.30 s) 
+episode steps: 34 
+episode reward: -44.50 
+episode max | avg | min reward: 0.60 | -1.35 | -50.00 
+T = 15.000000 
+
+---------------------------------------
+
+Episode 2 ==> CRASH {-0.13,-0.19,14.12}    22/02/2023 16:17:25
+episode time: 7.38 s (avg step: 0.30 s) 
+episode steps: 25 
+episode reward: -48.70 
+episode max | avg | min reward: 0.60 | -2.03 | -50.00 
+T = 14.250000 
+
+---------------------------------------
+
+Episode 3 ==> CRASH {-0.24,-0.00,26.83}    22/02/2023 16:17:33
+episode time: 7.33 s (avg step: 0.31 s) 
+episode steps: 24 
+episode reward: -46.80 
+episode max | avg | min reward: 0.60 | -2.03 | -50.00 
+T = 13.537500 
+
+---------------------------------------
+
+Episode 4 ==> CRASH {-0.13,-0.19,6.64}    22/02/2023 16:17:40
+episode time: 7.84 s (avg step: 0.31 s) 
+episode steps: 25 
+episode reward: -47.80 
+episode max | avg | min reward: 0.60 | -1.99 | -50.00 
+T = 12.860625 
+
+---------------------------------------
+
+Episode 5 ==> CRASH {-0.29,-0.10,24.41}    22/02/2023 16:17:48
+episode time: 7.44 s (avg step: 0.32 s) 
+episode steps: 23 
+episode reward: -47.20 
+episode max | avg | min reward: 0.60 | -2.15 | -50.00 
+T = 12.217594 
+
+---------------------------------------
+
+Episode 6 ==> CRASH {-0.23,0.04,41.90}    22/02/2023 16:17:56
+episode time: 7.99 s (avg step: 0.31 s) 
+episode steps: 26 
+episode reward: -44.70 
+episode max | avg | min reward: 0.60 | -1.79 | -50.00 
+T = 11.606714 
+
+---------------------------------------
+
+Episode 7 ==> CRASH {-1.26,-0.24,42.56}    22/02/2023 16:18:00
+episode time: 3.88 s (avg step: 0.35 s) 
+episode steps: 11 
+episode reward: -47.90 
+episode max | avg | min reward: 0.60 | -4.79 | -50.00 
+T = 11.026378 
+
+---------------------------------------
+
+Episode 8 ==> CRASH {-0.33,0.26,56.68}    22/02/2023 16:18:07
+episode time: 7.70 s (avg step: 0.31 s) 
+episode steps: 25 
+episode reward: -45.80 
+episode max | avg | min reward: 0.60 | -1.91 | -50.00 
+T = 10.475059 
+
+---------------------------------------
+
+Episode 9 ==> CRASH {-0.27,0.18,33.79}    22/02/2023 16:18:15
+episode time: 7.72 s (avg step: 0.31 s) 
+episode steps: 25 
+episode reward: -46.10 
+episode max | avg | min reward: 0.60 | -1.92 | -50.00 
+T = 9.951306 
+
+---------------------------------------
+
+Episode 10 ==> CRASH {0.90,0.93,34.90}    22/02/2023 16:18:29
+episode time: 13.77 s (avg step: 0.31 s) 
+episode steps: 44 
+episode reward: -43.30 
+episode max | avg | min reward: 0.60 | -1.01 | -50.00 
+T = 9.453741 
+
+---------------------------------------
+
+Episode 11 ==> CRASH {-1.03,-0.21,79.25}    22/02/2023 16:18:34
+episode time: 5.43 s (avg step: 0.32 s) 
+episode steps: 17 
+episode reward: -46.80 
+episode max | avg | min reward: 0.60 | -2.93 | -50.00 
+T = 8.981054 
+
+---------------------------------------
+
+Episode 12 ==> CRASH {-1.21,-0.20,45.88}    22/02/2023 16:18:39
+episode time: 4.48 s (avg step: 0.37 s) 
+episode steps: 12 
+episode reward: -48.10 
+episode max | avg | min reward: 0.60 | -4.37 | -50.00 
+T = 8.532001 
+
+---------------------------------------
+
+Episode 13 ==> CRASH {-0.22,-0.12,9.65}    22/02/2023 16:18:47
+episode time: 7.92 s (avg step: 0.33 s) 
+episode steps: 24 
+episode reward: -47.10 
+episode max | avg | min reward: 0.60 | -2.05 | -50.00 
+T = 8.105401 
+
+---------------------------------------
+
+Episode 14 ==> CRASH {-1.25,-0.25,33.96}    22/02/2023 16:18:51
+episode time: 4.07 s (avg step: 0.37 s) 
+episode steps: 11 
+episode reward: -47.10 
+episode max | avg | min reward: 0.60 | -4.71 | -50.00 
+T = 7.700131 
+
+---------------------------------------
+
+Episode 15 ==> CRASH {2.38,-0.34,3.13}    22/02/2023 16:19:07
+episode time: 16.31 s (avg step: 0.29 s) 
+episode steps: 56 
+episode reward: -48.80 
+episode max | avg | min reward: 0.60 | -0.89 | -50.00 
+T = 7.315125 
+
+---------------------------------------
+
+Episode 16 ==> CRASH {-1.12,-0.22,41.46}    22/02/2023 16:19:12
+episode time: 4.75 s (avg step: 0.37 s) 
+episode steps: 13 
+episode reward: -49.20 
+episode max | avg | min reward: 0.60 | -4.10 | -50.00 
+T = 6.949368 
+
+---------------------------------------
+
+Episode 17 ==> CRASH {-0.21,0.05,24.30}    22/02/2023 16:19:20
+episode time: 7.85 s (avg step: 0.31 s) 
+episode steps: 25 
+episode reward: -45.80 
+episode max | avg | min reward: 0.60 | -1.91 | -50.00 
+T = 6.601900 
+
+---------------------------------------
+
+Episode 18 ==> CRASH {-0.30,1.02,102.49}    22/02/2023 16:19:32
+episode time: 11.72 s (avg step: 0.34 s) 
+episode steps: 34 
+episode reward: -44.70 
+episode max | avg | min reward: 0.60 | -1.35 | -50.00 
+T = 6.271805 
+
+---------------------------------------
+
+Episode 19 ==> CRASH {0.11,0.90,71.39}    22/02/2023 16:19:45
+episode time: 13.58 s (avg step: 0.38 s) 
+episode steps: 36 
+episode reward: -43.90 
+episode max | avg | min reward: 0.60 | -1.25 | -50.00 
+T = 5.958215 
+
+---------------------------------------
+
+Episode 20 ==> CRASH {-1.12,-0.22,41.05}    22/02/2023 16:19:52
+episode time: 6.60 s (avg step: 0.55 s) 
+episode steps: 12 
+episode reward: -48.50 
+episode max | avg | min reward: 0.60 | -4.41 | -50.00 
+T = 5.660304 
+
+---------------------------------------
+
+Episode 21 ==> CRASH {0.02,-0.23,68.38}    22/02/2023 16:20:03
+episode time: 11.48 s (avg step: 0.44 s) 
+episode steps: 26 
+episode reward: -45.80 
+episode max | avg | min reward: 0.60 | -1.83 | -50.00 
+T = 5.377289 
+
+---------------------------------------
+
+Episode 22 ==> CRASH {-0.23,0.07,43.17}    22/02/2023 16:20:13
+episode time: 9.86 s (avg step: 0.49 s) 
+episode steps: 20 
+episode reward: -44.90 
+episode max | avg | min reward: 0.60 | -2.36 | -50.00 
+T = 5.108424 
+
+---------------------------------------
+
+Episode 23 ==> CRASH {1.13,-0.22,64.16}    22/02/2023 16:20:28
+episode time: 14.55 s (avg step: 0.44 s) 
+episode steps: 33 
+episode reward: -49.30 
+episode max | avg | min reward: 0.60 | -1.54 | -50.00 
+T = 4.853003 
+
+---------------------------------------
+
+Episode 24 ==> CRASH {2.51,-0.42,19.60}    22/02/2023 16:20:46
+episode time: 18.37 s (avg step: 0.44 s) 
+episode steps: 42 
+episode reward: -49.40 
+episode max | avg | min reward: 0.60 | -1.20 | -50.00 
+T = 4.610353 
+
+---------------------------------------
+
+Episode 25 ==> CRASH {1.37,-0.77,-29.92}    22/02/2023 16:21:00
+episode time: 13.84 s (avg step: 0.43 s) 
+episode steps: 32 
+episode reward: -45.90 
+episode max | avg | min reward: 0.60 | -1.48 | -50.00 
+T = 4.379835 
+
+TOO BIG STEP TIME: 3.51 s
+
+TOO BIG STEP TIME: 2.05 s
+
+---------------------------------------
+
+Episode 26 ==> CRASH {0.90,-0.13,41.00}    22/02/2023 16:21:17
+episode time: 16.77 s (avg step: 0.62 s) 
+episode steps: 27 
+episode reward: -44.80 
+episode max | avg | min reward: 0.60 | -1.72 | -50.00 
+T = 4.160844 
+
+---------------------------------------
+
+Episode 27 ==> CRASH {2.33,-0.80,-15.78}    22/02/2023 16:21:34
+episode time: 17.32 s (avg step: 0.44 s) 
+episode steps: 39 
+episode reward: -45.70 
+episode max | avg | min reward: 0.60 | -1.20 | -50.00 
+T = 3.952801 
+
+---------------------------------------
+
+Episode 28 ==> CRASH {2.23,1.05,75.68}    22/02/2023 16:21:56
+episode time: 21.52 s (avg step: 0.52 s) 
+episode steps: 41 
+episode reward: -48.40 
+episode max | avg | min reward: 0.60 | -1.21 | -50.00 
+T = 3.755161 
+
+---------------------------------------
+
+Episode 29 ==> CRASH {0.99,-0.20,23.64}    22/02/2023 16:22:09
+episode time: 13.11 s (avg step: 0.55 s) 
+episode steps: 24 
+episode reward: -47.90 
+episode max | avg | min reward: 0.60 | -2.08 | -50.00 
+T = 3.567403 
+
+---------------------------------------
+
+Episode 30 ==> CRASH {-0.89,-0.72,-14.35}    22/02/2023 16:22:15
+episode time: 6.02 s (avg step: 0.60 s) 
+episode steps: 10 
+episode reward: -48.50 
+episode max | avg | min reward: 0.60 | -5.39 | -50.00 
+T = 3.389033 
+
+---------------------------------------
+
+Episode 31 ==> CRASH {1.19,-0.78,-9.73}    22/02/2023 16:22:29
+episode time: 13.57 s (avg step: 0.57 s) 
+episode steps: 24 
+episode reward: -48.10 
+episode max | avg | min reward: 0.60 | -2.09 | -50.00 
+T = 3.219581 
+
+---------------------------------------
+
+Episode 32 ==> CRASH {0.23,-0.71,0.78}    22/02/2023 16:22:38
+episode time: 9.51 s (avg step: 0.56 s) 
+episode steps: 17 
+episode reward: -46.90 
+episode max | avg | min reward: 0.60 | -2.93 | -50.00 
+T = 3.058602 
+
+---------------------------------------
+
+Episode 33 ==> CRASH {2.31,0.39,59.76}    22/02/2023 16:22:59
+episode time: 20.53 s (avg step: 0.68 s) 
+episode steps: 30 
+episode reward: -46.60 
+episode max | avg | min reward: 0.60 | -1.61 | -50.00 
+T = 2.905672 
+
+---------------------------------------
+
+Episode 34 ==> CRASH {-1.21,-0.18,89.21}    22/02/2023 16:23:07
+episode time: 8.26 s (avg step: 1.18 s) 
+episode steps: 7 
+episode reward: -48.30 
+episode max | avg | min reward: 0.60 | -8.05 | -50.00 
+T = 2.760389 
+
+---------------------------------------
+
+Episode 35 ==> CRASH {2.52,-0.63,-36.48}    22/02/2023 16:23:32
+episode time: 24.57 s (avg step: 0.58 s) 
+episode steps: 42 
+episode reward: -45.90 
+episode max | avg | min reward: 0.60 | -1.12 | -50.00 
+T = 2.622369 
+
+---------------------------------------
+
+Episode 36 ==> CRASH {2.45,-0.73,-45.24}    22/02/2023 16:23:52
+episode time: 19.83 s (avg step: 0.71 s) 
+episode steps: 28 
+episode reward: -49.10 
+episode max | avg | min reward: 0.60 | -1.82 | -50.00 
+T = 2.491251 
+
+---------------------------------------
+
+Episode 37 ==> CRASH {-0.70,2.49,81.93}    22/02/2023 16:24:08
+episode time: 16.69 s (avg step: 0.67 s) 
+episode steps: 25 
+episode reward: -48.00 
+episode max | avg | min reward: 0.60 | -2.00 | -50.00 
+T = 2.366688 
+
+---------------------------------------
+
+Episode 38 ==> CRASH {-0.12,-0.15,60.24}    22/02/2023 16:24:20
+episode time: 11.05 s (avg step: 0.85 s) 
+episode steps: 13 
+episode reward: -48.70 
+episode max | avg | min reward: 0.60 | -4.06 | -50.00 
+T = 2.248354 
+
+---------------------------------------
+
+Episode 39 ==> CRASH {-0.22,-1.04,-68.66}    22/02/2023 16:24:31
+episode time: 11.15 s (avg step: 0.80 s) 
+episode steps: 14 
+episode reward: -48.30 
+episode max | avg | min reward: 0.60 | -3.72 | -50.00 
+T = 2.135936 
+
+---------------------------------------
+
+Episode 40 ==> CRASH {0.87,-2.48,-80.74}    22/02/2023 16:24:49
+episode time: 18.48 s (avg step: 0.66 s) 
+episode steps: 28 
+episode reward: -48.00 
+episode max | avg | min reward: 0.60 | -1.78 | -50.00 
+T = 2.029139 
+
+---------------------------------------
+
+Episode 41 ==> CRASH {-0.92,-0.79,-16.79}    22/02/2023 16:24:57
+episode time: 7.45 s (avg step: 1.24 s) 
+episode steps: 6 
+episode reward: -48.20 
+episode max | avg | min reward: 0.60 | -9.64 | -50.00 
+T = 1.927682 
+
+---------------------------------------
+
+Episode 42 ==> CRASH {-0.22,-0.01,35.07}    22/02/2023 16:25:06
+episode time: 9.32 s (avg step: 0.78 s) 
+episode steps: 12 
+episode reward: -47.00 
+episode max | avg | min reward: 0.60 | -4.27 | -50.00 
+T = 1.831298 
+
+---------------------------------------
+
+Episode 43 ==> CRASH {-0.89,-0.87,-43.43}    22/02/2023 16:25:15
+episode time: 8.89 s (avg step: 1.27 s) 
+episode steps: 7 
+episode reward: -48.50 
+episode max | avg | min reward: 0.60 | -8.08 | -50.00 
+T = 1.739733 
+
+---------------------------------------
+
+Episode 44 ==> CRASH {-0.81,-0.90,-32.71}    22/02/2023 16:25:26
+episode time: 11.34 s (avg step: 0.87 s) 
+episode steps: 13 
+episode reward: -49.60 
+episode max | avg | min reward: 0.60 | -4.13 | -50.00 
+T = 1.652747 
+
+---------------------------------------
+
+Episode 45 ==> CRASH {-0.83,-0.73,-1.18}    22/02/2023 16:25:36
+episode time: 9.11 s (avg step: 1.30 s) 
+episode steps: 7 
+episode reward: -49.20 
+episode max | avg | min reward: 0.60 | -8.20 | -50.00 
+T = 1.570109 
+
+---------------------------------------
+
+Episode 46 ==> CRASH {0.96,-0.97,-28.25}    22/02/2023 16:25:49
+episode time: 13.73 s (avg step: 0.81 s) 
+episode steps: 17 
+episode reward: -46.40 
+episode max | avg | min reward: 0.60 | -2.90 | -50.00 
+T = 1.491604 
+
+---------------------------------------
+
+Episode 47 ==> CRASH {-1.19,-0.17,63.57}    22/02/2023 16:25:58
+episode time: 8.20 s (avg step: 1.37 s) 
+episode steps: 6 
+episode reward: -48.90 
+episode max | avg | min reward: 0.60 | -9.78 | -50.00 
+T = 1.417024 
+
+---------------------------------------
+
+Episode 48 ==> CRASH {-1.25,-0.23,115.29}    22/02/2023 16:26:09
+episode time: 11.20 s (avg step: 1.87 s) 
+episode steps: 6 
+episode reward: -49.60 
+episode max | avg | min reward: 0.60 | -9.92 | -50.00 
+T = 1.346172 
+
+---------------------------------------
+
+Episode 49 ==> CRASH {-0.06,-0.19,53.42}    22/02/2023 16:26:23
+episode time: 13.79 s (avg step: 1.38 s) 
+episode steps: 10 
+episode reward: -48.90 
+episode max | avg | min reward: 0.40 | -5.43 | -50.00 
+T = 1.278864 
+
+---------------------------------------
+
+Episode 50 ==> CRASH {-0.54,-2.50,-84.22}    22/02/2023 16:26:39
+episode time: 16.18 s (avg step: 0.90 s) 
+episode steps: 18 
+episode reward: -49.80 
+episode max | avg | min reward: 0.60 | -2.93 | -50.00 
+T = 1.214921 
+
+---------------------------------------
+
+Episode 51 ==> CRASH {-0.93,-0.81,-21.71}    22/02/2023 16:26:48
+episode time: 8.71 s (avg step: 1.24 s) 
+episode steps: 7 
+episode reward: -48.50 
+episode max | avg | min reward: 0.60 | -8.08 | -50.00 
+T = 1.154175 
+
+---------------------------------------
+
+Episode 52 ==> CRASH {-0.83,-0.92,-50.93}    22/02/2023 16:26:55
+episode time: 7.39 s (avg step: 1.06 s) 
+episode steps: 7 
+episode reward: -49.20 
+episode max | avg | min reward: 0.60 | -8.20 | -50.00 
+T = 1.096466 
+
+---------------------------------------
+
+Episode 53 ==> CRASH {-1.22,-0.18,87.45}    22/02/2023 16:27:06
+episode time: 10.90 s (avg step: 1.21 s) 
+episode steps: 9 
+episode reward: -48.90 
+episode max | avg | min reward: 0.60 | -6.11 | -50.00 
+T = 1.041643 
+
+---------------------------------------
+
+Episode 54 ==> CRASH {-0.19,0.17,69.36}    22/02/2023 16:27:21
+episode time: 14.68 s (avg step: 0.98 s) 
+episode steps: 15 
+episode reward: -49.30 
+episode max | avg | min reward: 0.40 | -3.52 | -50.00 
+T = 0.989560 
+
+---------------------------------------
+
+Episode 55 ==> CRASH {1.05,-0.90,-95.72}    22/02/2023 16:27:55
+episode time: 34.12 s (avg step: 1.07 s) 
+episode steps: 32 
+episode reward: -47.70 
+episode max | avg | min reward: 0.60 | -1.54 | -50.00 
+T = 0.940082 
+
+---------------------------------------
+
+Episode 56 ==> CRASH {-0.20,-0.12,47.61}    22/02/2023 16:28:09
+episode time: 14.05 s (avg step: 1.56 s) 
+episode steps: 9 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -6.14 | -50.00 
+T = 0.893078 
+
+---------------------------------------
+
+Episode 57 ==> CRASH {-1.22,-0.18,96.78}    22/02/2023 16:28:22
+episode time: 12.65 s (avg step: 2.53 s) 
+episode steps: 5 
+episode reward: -49.30 
+episode max | avg | min reward: 0.60 | -12.32 | -50.00 
+T = 0.848424 
+
+---------------------------------------
+
+Episode 58 ==> CRASH {-1.15,-0.88,-114.73}    22/02/2023 16:28:33
+episode time: 11.20 s (avg step: 1.24 s) 
+episode steps: 9 
+episode reward: -48.40 
+episode max | avg | min reward: 0.60 | -6.05 | -50.00 
+T = 0.806003 
+
+---------------------------------------
+
+Episode 59 ==> CRASH {-0.15,-0.19,70.03}    22/02/2023 16:28:46
+episode time: 13.16 s (avg step: 1.32 s) 
+episode steps: 10 
+episode reward: -48.70 
+episode max | avg | min reward: 0.60 | -5.41 | -50.00 
+T = 0.765703 
+
+---------------------------------------
+
+Episode 60 ==> CRASH {-1.25,-0.18,108.54}    22/02/2023 16:29:02
+episode time: 16.10 s (avg step: 1.24 s) 
+episode steps: 13 
+episode reward: -48.90 
+episode max | avg | min reward: 0.40 | -4.08 | -50.00 
+T = 0.727418 
+
+---------------------------------------
+
+Episode 61 ==> CRASH {-1.14,-0.90,-101.78}    22/02/2023 16:29:12
+episode time: 10.07 s (avg step: 1.26 s) 
+episode steps: 8 
+episode reward: -48.80 
+episode max | avg | min reward: 0.60 | -6.97 | -50.00 
+T = 0.691047 
+
+---------------------------------------
+
+Episode 62 ==> CRASH {-1.15,-0.88,-83.76}    22/02/2023 16:29:22
+episode time: 9.66 s (avg step: 1.61 s) 
+episode steps: 6 
+episode reward: -48.20 
+episode max | avg | min reward: 0.60 | -9.64 | -50.00 
+T = 0.656495 
+
+---------------------------------------
+
+Episode 63 ==> CRASH {0.27,1.09,-117.97}    22/02/2023 16:29:47
+episode time: 25.01 s (avg step: 1.04 s) 
+episode steps: 24 
+episode reward: -48.30 
+episode max | avg | min reward: 0.60 | -2.10 | -50.00 
+T = 0.623670 
+
+---------------------------------------
+
+Episode 64 ==> CRASH {-1.26,-0.82,177.53}    22/02/2023 16:29:56
+episode time: 8.45 s (avg step: 1.41 s) 
+episode steps: 6 
+episode reward: -48.20 
+episode max | avg | min reward: 0.60 | -9.64 | -50.00 
+T = 0.592486 
+
+---------------------------------------
+
+Episode 65 ==> CRASH {2.32,-0.98,-34.47}    22/02/2023 16:30:20
+episode time: 24.00 s (avg step: 1.26 s) 
+episode steps: 19 
+episode reward: -49.80 
+episode max | avg | min reward: 0.60 | -2.77 | -50.00 
+T = 0.562862 
+
+---------------------------------------
+
+Episode 66 ==> CRASH {-0.20,-0.11,72.03}    22/02/2023 16:30:35
+episode time: 14.67 s (avg step: 1.47 s) 
+episode steps: 10 
+episode reward: -49.70 
+episode max | avg | min reward: 0.40 | -5.52 | -50.00 
+T = 0.534719 
+
+---------------------------------------
+
+Episode 67 ==> CRASH {2.26,-0.03,67.58}    22/02/2023 16:30:58
+episode time: 23.38 s (avg step: 1.23 s) 
+episode steps: 19 
+episode reward: -49.10 
+episode max | avg | min reward: 0.60 | -2.73 | -50.00 
+T = 0.507983 
+
+---------------------------------------
+
+Episode 68 ==> CRASH {-1.27,-0.18,120.67}    22/02/2023 16:31:08
+episode time: 10.41 s (avg step: 1.49 s) 
+episode steps: 7 
+episode reward: -50.10 
+episode max | avg | min reward: 0.40 | -8.35 | -50.00 
+T = 0.482584 
+
+---------------------------------------
+
+Episode 69 ==> CRASH {-0.22,-0.02,51.97}    22/02/2023 16:31:24
+episode time: 15.60 s (avg step: 1.95 s) 
+episode steps: 8 
+episode reward: -48.80 
+episode max | avg | min reward: 0.40 | -6.97 | -50.00 
+T = 0.458455 
+
+---------------------------------------
+
+Episode 70 ==> CRASH {-0.97,-2.42,-40.60}    22/02/2023 16:31:49
+episode time: 24.49 s (avg step: 1.22 s) 
+episode steps: 20 
+episode reward: -48.80 
+episode max | avg | min reward: 0.60 | -2.57 | -50.00 
+T = 0.435532 
+
+---------------------------------------
+
+Episode 71 ==> CRASH {-0.17,-0.09,42.49}    22/02/2023 16:32:08
+episode time: 18.89 s (avg step: 2.10 s) 
+episode steps: 9 
+episode reward: -48.90 
+episode max | avg | min reward: 0.60 | -6.11 | -50.00 
+T = 0.413755 
+
+---------------------------------------
+
+Episode 72 ==> CRASH {0.40,-2.45,-27.63}    22/02/2023 16:32:26
+episode time: 18.81 s (avg step: 1.25 s) 
+episode steps: 15 
+episode reward: -48.80 
+episode max | avg | min reward: 0.40 | -3.49 | -50.00 
+T = 0.393068 
+
+---------------------------------------
+
+Episode 73 ==> CRASH {-1.21,-0.17,79.24}    22/02/2023 16:32:36
+episode time: 9.88 s (avg step: 2.47 s) 
+episode steps: 4 
+episode reward: -49.90 
+episode max | avg | min reward: 0.40 | -16.63 | -50.00 
+T = 0.373414 
+
+---------------------------------------
+
+Episode 74 ==> CRASH {-0.21,-0.86,-114.37}    22/02/2023 16:32:53
+episode time: 16.81 s (avg step: 1.40 s) 
+episode steps: 12 
+episode reward: -48.10 
+episode max | avg | min reward: 0.40 | -4.37 | -50.00 
+T = 0.354743 
+
+---------------------------------------
+
+Episode 75 ==> CRASH {-1.37,-0.53,-65.04}    22/02/2023 16:33:25
+episode time: 31.90 s (avg step: 1.45 s) 
+episode steps: 22 
+episode reward: -48.60 
+episode max | avg | min reward: 0.40 | -2.31 | -50.00 
+T = 0.337006 
+
+---------------------------------------
+
+Episode 76 ==> CRASH {-0.87,-1.04,-68.39}    22/02/2023 16:33:37
+episode time: 11.65 s (avg step: 1.66 s) 
+episode steps: 7 
+episode reward: -48.70 
+episode max | avg | min reward: 0.40 | -8.12 | -50.00 
+T = 0.320156 
+
+---------------------------------------
+
+Episode 77 ==> CRASH {-1.35,-0.40,-126.02}    22/02/2023 16:33:47
+episode time: 10.33 s (avg step: 2.07 s) 
+episode steps: 5 
+episode reward: -50.20 
+episode max | avg | min reward: 0.40 | -12.55 | -50.00 
+T = 0.304148 
+
+---------------------------------------
+
+Episode 78 ==> CRASH {-0.71,-1.02,-31.35}    22/02/2023 16:34:12
+episode time: 25.11 s (avg step: 1.79 s) 
+episode steps: 14 
+episode reward: -49.40 
+episode max | avg | min reward: 0.40 | -3.80 | -50.00 
+T = 0.288941 
+
+---------------------------------------
+
+Episode 79 ==> CRASH {-0.95,-2.43,-81.78}    22/02/2023 16:34:40
+episode time: 27.08 s (avg step: 1.43 s) 
+episode steps: 19 
+episode reward: -48.20 
+episode max | avg | min reward: 0.60 | -2.68 | -50.00 
+T = 0.274494 
+
+---------------------------------------
+
+Episode 80 ==> CRASH {2.34,0.24,58.30}    22/02/2023 16:35:04
+episode time: 24.65 s (avg step: 1.64 s) 
+episode steps: 15 
+episode reward: -50.50 
+episode max | avg | min reward: 0.40 | -3.61 | -50.00 
+T = 0.260769 
+
+---------------------------------------
+
+Episode 81 ==> CRASH {2.20,-1.19,-29.39}    22/02/2023 16:35:34
+episode time: 29.47 s (avg step: 1.64 s) 
+episode steps: 18 
+episode reward: -48.80 
+episode max | avg | min reward: 0.60 | -2.87 | -50.00 
+T = 0.247731 
+
+---------------------------------------
+
+Episode 82 ==> CRASH {-1.54,-0.39,-13.28}    22/02/2023 16:35:55
+episode time: 21.11 s (avg step: 1.76 s) 
+episode steps: 12 
+episode reward: -50.00 
+episode max | avg | min reward: 0.40 | -4.55 | -50.00 
+T = 0.235344 
+
+---------------------------------------
+
+Episode 83 ==> CRASH {-0.12,-0.15,42.06}    22/02/2023 16:36:16
+episode time: 20.90 s (avg step: 2.61 s) 
+episode steps: 8 
+episode reward: -48.80 
+episode max | avg | min reward: 0.60 | -6.97 | -50.00 
+T = 0.223577 
+
+---------------------------------------
+
+Episode 84 ==> CRASH {-1.32,-0.36,-142.84}    22/02/2023 16:36:30
+episode time: 13.79 s (avg step: 1.72 s) 
+episode steps: 8 
+episode reward: -49.30 
+episode max | avg | min reward: 0.40 | -7.04 | -50.00 
+T = 0.212398 
+
+---------------------------------------
+
+Episode 85 ==> CRASH {-0.29,-0.23,170.08}    22/02/2023 16:36:59
+episode time: 29.40 s (avg step: 1.84 s) 
+episode steps: 16 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -3.31 | -50.00 
+T = 0.201778 
+
+---------------------------------------
+
+Episode 86 ==> CRASH {-1.14,-0.19,87.35}    22/02/2023 16:37:25
+episode time: 25.35 s (avg step: 1.69 s) 
+episode steps: 15 
+episode reward: -48.80 
+episode max | avg | min reward: 0.40 | -3.49 | -50.00 
+T = 0.191689 
+
+TOO BIG STEP TIME: 2.07 s
+
+---------------------------------------
+
+Episode 87 ==> CRASH {-0.51,1.43,-176.31}    22/02/2023 16:38:05
+episode time: 40.51 s (avg step: 1.62 s) 
+episode steps: 25 
+episode reward: -46.40 
+episode max | avg | min reward: 0.60 | -1.93 | -50.00 
+T = 0.182105 
+
+---------------------------------------
+
+Episode 88 ==> CRASH {-2.17,-1.11,-110.01}    22/02/2023 16:38:40
+episode time: 34.47 s (avg step: 1.72 s) 
+episode steps: 20 
+episode reward: -46.30 
+episode max | avg | min reward: 0.60 | -2.44 | -50.00 
+T = 0.173000 
+
+---------------------------------------
+
+Episode 89 ==> CRASH {-1.38,-0.51,-70.67}    22/02/2023 16:38:51
+episode time: 11.48 s (avg step: 2.30 s) 
+episode steps: 5 
+episode reward: -50.00 
+episode max | avg | min reward: 0.40 | -12.50 | -50.00 
+T = 0.164350 
+
+TOO BIG STEP TIME: 2.30 s
+
+---------------------------------------
+
+Episode 90 ==> CRASH {-0.23,-0.14,125.95}    22/02/2023 16:39:11
+episode time: 20.10 s (avg step: 2.23 s) 
+episode steps: 9 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -6.14 | -50.00 
+T = 0.156132 
+
+---------------------------------------
+
+Episode 91 ==> CRASH {-0.67,-1.11,-69.10}    22/02/2023 16:39:23
+episode time: 11.48 s (avg step: 2.30 s) 
+episode steps: 5 
+episode reward: -48.80 
+episode max | avg | min reward: 0.40 | -12.20 | -50.00 
+T = 0.148325 
+
+---------------------------------------
+
+Episode 92 ==> CRASH {-0.66,-1.10,-68.79}    22/02/2023 16:39:42
+episode time: 18.96 s (avg step: 1.90 s) 
+episode steps: 10 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -5.51 | -50.00 
+T = 0.140909 
+
+---------------------------------------
+
+Episode 93 ==> CRASH {-1.14,-0.19,90.45}    22/02/2023 16:39:59
+episode time: 17.57 s (avg step: 1.95 s) 
+episode steps: 9 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -6.14 | -50.00 
+T = 0.133864 
+
+---------------------------------------
+
+Episode 94 ==> CRASH {-1.02,-0.44,-117.42}    22/02/2023 16:40:12
+episode time: 12.74 s (avg step: 2.12 s) 
+episode steps: 6 
+episode reward: -50.30 
+episode max | avg | min reward: 0.40 | -10.06 | -50.00 
+T = 0.127171 
+
+TOO BIG STEP TIME: 2.48 s
+
+---------------------------------------
+
+Episode 95 ==> CRASH {-1.22,-0.20,71.74}    22/02/2023 16:40:23
+episode time: 10.39 s (avg step: 3.46 s) 
+episode steps: 3 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -24.80 | -50.00 
+T = 0.120812 
+
+---------------------------------------
+
+Episode 96 ==> CRASH {-0.19,-0.17,117.87}    22/02/2023 16:40:50
+episode time: 27.48 s (avg step: 1.83 s) 
+episode steps: 15 
+episode reward: -49.50 
+episode max | avg | min reward: 0.40 | -3.54 | -50.00 
+T = 0.114771 
+
+---------------------------------------
+
+Episode 97 ==> CRASH {-0.24,-0.04,61.50}    22/02/2023 16:41:16
+episode time: 25.76 s (avg step: 2.58 s) 
+episode steps: 10 
+episode reward: -49.20 
+episode max | avg | min reward: 0.40 | -5.47 | -50.00 
+T = 0.109033 
+
+TOO BIG STEP TIME: 2.30 s
+
+---------------------------------------
+
+Episode 98 ==> CRASH {0.37,0.94,-8.50}    22/02/2023 16:41:41
+episode time: 24.79 s (avg step: 1.91 s) 
+episode steps: 13 
+episode reward: -48.90 
+episode max | avg | min reward: 0.60 | -4.08 | -50.00 
+T = 0.103581 
+
+TOO BIG STEP TIME: 2.04 s
+
+TOO BIG STEP TIME: 2.10 s
+
+---------------------------------------
+
+Episode 99 ==> CRASH {-1.28,-1.04,-8.75}    22/02/2023 16:42:11
+episode time: 29.95 s (avg step: 1.87 s) 
+episode steps: 16 
+episode reward: -47.50 
+episode max | avg | min reward: 0.60 | -3.17 | -50.00 
+T = 0.098402 
+
+TOO BIG STEP TIME: 2.18 s
+
+TOO BIG STEP TIME: 2.21 s
+
+---------------------------------------
+
+Episode 100 ==> CRASH {-1.78,-0.28,21.85}    22/02/2023 16:42:35
+episode time: 24.41 s (avg step: 2.71 s) 
+episode steps: 9 
+episode reward: -49.80 
+episode max | avg | min reward: 0.40 | -6.22 | -50.00 
+T = 0.093482 
+
+TOO BIG STEP TIME: 2.33 s
+
+TOO BIG STEP TIME: 2.20 s
+
+---------------------------------------
+
+Episode 101 ==> CRASH {-1.31,-0.55,8.35}    22/02/2023 16:42:55
+episode time: 19.24 s (avg step: 4.81 s) 
+episode steps: 4 
+episode reward: -49.70 
+episode max | avg | min reward: 0.40 | -16.57 | -50.00 
+T = 0.088808 
+
+---------------------------------------
+
+Episode 102 ==> CRASH {-1.45,-0.61,-139.33}    22/02/2023 16:43:22
+episode time: 26.98 s (avg step: 2.45 s) 
+episode steps: 11 
+episode reward: -50.00 
+episode max | avg | min reward: 0.60 | -5.00 | -50.00 
+T = 0.084368 
+
+TOO BIG STEP TIME: 2.14 s
+
+TOO BIG STEP TIME: 2.09 s
+
+---------------------------------------
+
+Episode 103 ==> CRASH {-0.02,-0.91,-90.28}    22/02/2023 16:43:43
+episode time: 21.31 s (avg step: 3.04 s) 
+episode steps: 7 
+episode reward: -48.50 
+episode max | avg | min reward: 0.60 | -8.08 | -50.00 
+T = 0.080149 
+
+---------------------------------------
+
+Episode 104 ==> CRASH {-2.00,-1.13,-70.36}    22/02/2023 16:44:26
+episode time: 42.61 s (avg step: 1.85 s) 
+episode steps: 23 
+episode reward: -47.60 
+episode max | avg | min reward: 0.60 | -2.16 | -50.00 
+T = 0.076142 
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 2.07 s
+
+---------------------------------------
+
+Episode 105 ==> CRASH {-1.19,-0.78,-170.31}    22/02/2023 16:44:40
+episode time: 14.16 s (avg step: 2.83 s) 
+episode steps: 5 
+episode reward: -49.30 
+episode max | avg | min reward: 0.60 | -12.32 | -50.00 
+T = 0.072335 
+
+---------------------------------------
+
+Episode 106 ==> CRASH {-0.24,-0.09,81.38}    22/02/2023 16:45:01
+episode time: 21.22 s (avg step: 2.36 s) 
+episode steps: 9 
+episode reward: -48.20 
+episode max | avg | min reward: 0.40 | -6.03 | -50.00 
+T = 0.068718 
+
+TOO BIG STEP TIME: 2.03 s
+
+---------------------------------------
+
+Episode 107 ==> CRASH {-0.80,-2.18,112.86}    22/02/2023 16:45:24
+episode time: 22.44 s (avg step: 2.04 s) 
+episode steps: 11 
+episode reward: -49.50 
+episode max | avg | min reward: 0.60 | -4.95 | -50.00 
+T = 0.065282 
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.53 s
+
+---------------------------------------
+
+Episode 108 ==> CRASH {-0.64,-0.33,52.03}    22/02/2023 16:45:51
+episode time: 27.37 s (avg step: 2.28 s) 
+episode steps: 12 
+episode reward: -48.90 
+episode max | avg | min reward: 0.60 | -4.45 | -50.00 
+T = 0.062018 
+
+TOO BIG STEP TIME: 2.11 s
+
+TOO BIG STEP TIME: 2.10 s
+
+---------------------------------------
+
+Episode 109 ==> CRASH {-1.10,-0.37,175.86}    22/02/2023 16:46:23
+episode time: 31.67 s (avg step: 2.26 s) 
+episode steps: 14 
+episode reward: -49.20 
+episode max | avg | min reward: 0.40 | -3.78 | -50.00 
+T = 0.058917 
+
+---------------------------------------
+
+Episode 110 ==> CRASH {-1.18,-0.36,-130.86}    22/02/2023 16:46:38
+episode time: 14.81 s (avg step: 2.47 s) 
+episode steps: 6 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -9.92 | -50.00 
+T = 0.055971 
+
+TOO BIG STEP TIME: 2.01 s
+
+TOO BIG STEP TIME: 2.79 s
+
+TOO BIG STEP TIME: 2.16 s
+
+---------------------------------------
+
+Episode 111 ==> CRASH {0.92,0.63,97.43}    22/02/2023 16:47:12
+episode time: 34.01 s (avg step: 2.13 s) 
+episode steps: 16 
+episode reward: -47.70 
+episode max | avg | min reward: 0.40 | -3.18 | -50.00 
+T = 0.053173 
+
+TOO BIG STEP TIME: 2.28 s
+
+---------------------------------------
+
+Episode 112 ==> CRASH {-1.28,-0.19,128.64}    22/02/2023 16:47:35
+episode time: 22.76 s (avg step: 7.59 s) 
+episode steps: 3 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -24.80 | -50.00 
+T = 0.050514 
+
+TOO BIG STEP TIME: 2.01 s
+
+TOO BIG STEP TIME: 2.25 s
+
+TOO BIG STEP TIME: 3.18 s
+
+TOO BIG STEP TIME: 2.58 s
+
+---------------------------------------
+
+Episode 113 ==> CRASH {-1.35,-0.22,171.03}    22/02/2023 16:47:58
+episode time: 23.58 s (avg step: 2.62 s) 
+episode steps: 9 
+episode reward: -49.30 
+episode max | avg | min reward: 0.40 | -6.16 | -50.00 
+T = 0.047988 
+
+TOO BIG STEP TIME: 2.07 s
+
+TOO BIG STEP TIME: 2.10 s
+
+---------------------------------------
+
+Episode 114 ==> CRASH {-1.26,-0.24,151.03}    22/02/2023 16:48:13
+episode time: 14.45 s (avg step: 2.89 s) 
+episode steps: 5 
+episode reward: -49.30 
+episode max | avg | min reward: 0.40 | -12.32 | -50.00 
+T = 0.045589 
+
+TOO BIG STEP TIME: 2.18 s
+
+TOO BIG STEP TIME: 2.40 s
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.08 s
+
+---------------------------------------
+
+Episode 115 ==> CRASH {2.26,-0.01,56.37}    22/02/2023 16:48:57
+episode time: 44.51 s (avg step: 2.12 s) 
+episode steps: 21 
+episode reward: -47.60 
+episode max | avg | min reward: 0.40 | -2.38 | -50.00 
+T = 0.043309 
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 2.61 s
+
+TOO BIG STEP TIME: 2.21 s
+
+TOO BIG STEP TIME: 2.04 s
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.01 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.13 s
+
+---------------------------------------
+
+Episode 116 ==> CRASH {-1.39,-0.32,-136.06}    22/02/2023 16:49:30
+episode time: 32.47 s (avg step: 2.50 s) 
+episode steps: 13 
+episode reward: -48.40 
+episode max | avg | min reward: 0.40 | -4.03 | -50.00 
+T = 0.041144 
+
+TOO BIG STEP TIME: 2.03 s
+
+---------------------------------------
+
+Episode 117 ==> CRASH {-1.71,-0.29,39.88}    22/02/2023 16:49:48
+episode time: 18.32 s (avg step: 2.62 s) 
+episode steps: 7 
+episode reward: -50.60 
+episode max | avg | min reward: 0.40 | -8.43 | -50.00 
+T = 0.039087 
+
+TOO BIG STEP TIME: 2.11 s
+
+TOO BIG STEP TIME: 2.21 s
+
+---------------------------------------
+
+Episode 118 ==> CRASH {-1.34,-0.45,-97.01}    22/02/2023 16:50:02
+episode time: 13.58 s (avg step: 3.39 s) 
+episode steps: 4 
+episode reward: -49.20 
+episode max | avg | min reward: 0.40 | -16.40 | -50.00 
+T = 0.037132 
+
+TOO BIG STEP TIME: 2.58 s
+
+TOO BIG STEP TIME: 2.67 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.09 s
+
+TOO BIG STEP TIME: 2.06 s
+
+TOO BIG STEP TIME: 2.02 s
+
+---------------------------------------
+
+Episode 119 ==> CRASH {-1.34,-0.17,140.03}    22/02/2023 16:50:26
+episode time: 24.55 s (avg step: 3.07 s) 
+episode steps: 8 
+episode reward: -49.70 
+episode max | avg | min reward: 0.40 | -7.10 | -50.00 
+T = 0.035276 
+
+TOO BIG STEP TIME: 2.22 s
+
+TOO BIG STEP TIME: 2.09 s
+
+TOO BIG STEP TIME: 2.50 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 2.05 s
+
+---------------------------------------
+
+Episode 120 ==> CRASH {-1.32,-0.21,146.82}    22/02/2023 16:50:54
+episode time: 27.09 s (avg step: 2.71 s) 
+episode steps: 10 
+episode reward: -48.90 
+episode max | avg | min reward: 0.40 | -5.43 | -50.00 
+T = 0.033512 
+
+TOO BIG STEP TIME: 2.04 s
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.43 s
+
+TOO BIG STEP TIME: 2.02 s
+
+TOO BIG STEP TIME: 2.63 s
+
+TOO BIG STEP TIME: 2.41 s
+
+TOO BIG STEP TIME: 2.05 s
+
+---------------------------------------
+
+Episode 121 ==> CRASH {-0.37,-0.97,-161.90}    22/02/2023 16:51:31
+episode time: 37.66 s (avg step: 2.35 s) 
+episode steps: 16 
+episode reward: -50.70 
+episode max | avg | min reward: 0.40 | -3.38 | -50.00 
+T = 0.031836 
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.36 s
+
+TOO BIG STEP TIME: 2.07 s
+
+TOO BIG STEP TIME: 2.26 s
+
+---------------------------------------
+
+Episode 122 ==> CRASH {-0.20,0.01,16.39}    22/02/2023 16:51:49
+episode time: 17.36 s (avg step: 2.89 s) 
+episode steps: 6 
+episode reward: -48.40 
+episode max | avg | min reward: 0.40 | -9.68 | -50.00 
+T = 0.030245 
+
+TOO BIG STEP TIME: 2.01 s
+
+TOO BIG STEP TIME: 2.08 s
+
+---------------------------------------
+
+Episode 123 ==> CRASH {0.31,-0.58,30.71}    22/02/2023 16:52:09
+episode time: 20.02 s (avg step: 3.34 s) 
+episode steps: 6 
+episode reward: -48.40 
+episode max | avg | min reward: 0.40 | -9.68 | -50.00 
+T = 0.028732 
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.85 s
+
+TOO BIG STEP TIME: 2.32 s
+
+TOO BIG STEP TIME: 2.40 s
+
+TOO BIG STEP TIME: 2.08 s
+
+TOO BIG STEP TIME: 2.02 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.11 s
+
+TOO BIG STEP TIME: 2.32 s
+
+TOO BIG STEP TIME: 2.43 s
+
+---------------------------------------
+
+Episode 124 ==> CRASH {-1.37,-0.42,-100.12}    22/02/2023 16:52:52
+episode time: 43.51 s (avg step: 3.35 s) 
+episode steps: 13 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -4.09 | -50.00 
+T = 0.027296 
+
+TOO BIG STEP TIME: 2.42 s
+
+TOO BIG STEP TIME: 2.68 s
+
+TOO BIG STEP TIME: 2.20 s
+
+TOO BIG STEP TIME: 2.09 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.06 s
+
+TOO BIG STEP TIME: 2.37 s
+
+---------------------------------------
+
+Episode 125 ==> CRASH {-1.39,-0.35,-126.01}    22/02/2023 16:53:16
+episode time: 23.99 s (avg step: 3.00 s) 
+episode steps: 8 
+episode reward: -49.70 
+episode max | avg | min reward: 0.40 | -7.10 | -50.00 
+T = 0.025931 
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.58 s
+
+TOO BIG STEP TIME: 2.93 s
+
+TOO BIG STEP TIME: 2.63 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.27 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.14 s
+
+---------------------------------------
+
+Episode 126 ==> CRASH {-1.33,-0.20,135.25}    22/02/2023 16:53:40
+episode time: 23.00 s (avg step: 4.60 s) 
+episode steps: 5 
+episode reward: -50.20 
+episode max | avg | min reward: 0.40 | -12.55 | -50.00 
+T = 0.024634 
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.22 s
+
+TOO BIG STEP TIME: 2.33 s
+
+TOO BIG STEP TIME: 2.13 s
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.35 s
+
+TOO BIG STEP TIME: 2.19 s
+
+TOO BIG STEP TIME: 2.01 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.60 s
+
+---------------------------------------
+
+Episode 127 ==> CRASH {-1.40,-0.26,-170.56}    22/02/2023 16:54:16
+episode time: 36.00 s (avg step: 3.00 s) 
+episode steps: 12 
+episode reward: -49.50 
+episode max | avg | min reward: 0.40 | -4.50 | -50.00 
+T = 0.023403 
+
+TOO BIG STEP TIME: 2.66 s
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 2.14 s
+
+TOO BIG STEP TIME: 2.44 s
+
+TOO BIG STEP TIME: 2.91 s
+
+TOO BIG STEP TIME: 2.43 s
+
+TOO BIG STEP TIME: 2.37 s
+
+TOO BIG STEP TIME: 2.48 s
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.24 s
+
+---------------------------------------
+
+Episode 128 ==> CRASH {-0.75,-2.23,104.61}    22/02/2023 16:54:46
+episode time: 30.02 s (avg step: 3.34 s) 
+episode steps: 9 
+episode reward: -49.30 
+episode max | avg | min reward: 0.40 | -6.16 | -50.00 
+T = 0.022233 
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.45 s
+
+TOO BIG STEP TIME: 2.37 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.01 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.07 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.15 s
+
+TOO BIG STEP TIME: 2.32 s
+
+---------------------------------------
+
+Episode 129 ==> CRASH {-1.40,-0.26,-163.62}    22/02/2023 16:55:22
+episode time: 36.07 s (avg step: 4.01 s) 
+episode steps: 9 
+episode reward: -49.30 
+episode max | avg | min reward: 0.40 | -6.16 | -50.00 
+T = 0.021121 
+
+TOO BIG STEP TIME: 2.01 s
+
+TOO BIG STEP TIME: 2.51 s
+
+TOO BIG STEP TIME: 2.41 s
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.45 s
+
+TOO BIG STEP TIME: 2.75 s
+
+---------------------------------------
+
+Episode 130 ==> CRASH {-1.38,-0.39,-106.03}    22/02/2023 16:55:36
+episode time: 14.12 s (avg step: 4.71 s) 
+episode steps: 3 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -24.80 | -50.00 
+T = 0.020065 
+
+TOO BIG STEP TIME: 2.88 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 2.15 s
+
+TOO BIG STEP TIME: 2.36 s
+
+TOO BIG STEP TIME: 2.22 s
+
+TOO BIG STEP TIME: 2.02 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.49 s
+
+TOO BIG STEP TIME: 2.39 s
+
+TOO BIG STEP TIME: 2.54 s
+
+TOO BIG STEP TIME: 2.28 s
+
+---------------------------------------
+
+Episode 131 ==> CRASH {-1.62,-0.54,128.57}    22/02/2023 16:56:12
+episode time: 35.85 s (avg step: 2.76 s) 
+episode steps: 13 
+episode reward: -50.10 
+episode max | avg | min reward: 0.40 | -4.17 | -50.00 
+T = 0.019062 
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.01 s
+
+TOO BIG STEP TIME: 2.35 s
+
+TOO BIG STEP TIME: 2.00 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.19 s
+
+---------------------------------------
+
+Episode 132 ==> CRASH {-1.66,-0.49,49.14}    22/02/2023 16:56:35
+episode time: 22.77 s (avg step: 2.85 s) 
+episode steps: 8 
+episode reward: -48.40 
+episode max | avg | min reward: 0.60 | -6.91 | -50.00 
+T = 0.018109 
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.53 s
+
+TOO BIG STEP TIME: 2.44 s
+
+TOO BIG STEP TIME: 2.27 s
+
+TOO BIG STEP TIME: 2.06 s
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 2.10 s
+
+TOO BIG STEP TIME: 2.06 s
+
+TOO BIG STEP TIME: 2.21 s
+
+---------------------------------------
+
+Episode 133 ==> CRASH {-1.60,-0.52,110.25}    22/02/2023 16:57:07
+episode time: 31.75 s (avg step: 2.65 s) 
+episode steps: 12 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -4.46 | -50.00 
+T = 0.017203 
+
+TOO BIG STEP TIME: 2.55 s
+
+TOO BIG STEP TIME: 2.32 s
+
+TOO BIG STEP TIME: 2.02 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.02 s
+
+TOO BIG STEP TIME: 2.09 s
+
+---------------------------------------
+
+Episode 134 ==> CRASH {-1.26,-0.21,115.38}    22/02/2023 16:57:25
+episode time: 18.46 s (avg step: 6.15 s) 
+episode steps: 3 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -24.80 | -50.00 
+T = 0.016343 
+
+TOO BIG STEP TIME: 2.25 s
+
+TOO BIG STEP TIME: 2.11 s
+
+TOO BIG STEP TIME: 2.35 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.27 s
+
+TOO BIG STEP TIME: 2.27 s
+
+TOO BIG STEP TIME: 2.18 s
+
+TOO BIG STEP TIME: 2.67 s
+
+TOO BIG STEP TIME: 3.58 s
+
+TOO BIG STEP TIME: 2.50 s
+
+TOO BIG STEP TIME: 2.07 s
+
+TOO BIG STEP TIME: 2.41 s
+
+---------------------------------------
+
+Episode 135 ==> CRASH {-0.23,-0.43,-102.91}    22/02/2023 16:57:56
+episode time: 30.63 s (avg step: 3.40 s) 
+episode steps: 9 
+episode reward: -48.60 
+episode max | avg | min reward: 0.40 | -6.08 | -50.00 
+T = 0.015526 
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.09 s
+
+TOO BIG STEP TIME: 2.18 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.54 s
+
+TOO BIG STEP TIME: 2.15 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.45 s
+
+---------------------------------------
+
+Episode 136 ==> CRASH {0.87,-0.06,-39.05}    22/02/2023 16:58:18
+episode time: 22.49 s (avg step: 3.21 s) 
+episode steps: 7 
+episode reward: -48.70 
+episode max | avg | min reward: 0.40 | -8.12 | -50.00 
+T = 0.014750 
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.06 s
+
+TOO BIG STEP TIME: 2.09 s
+
+TOO BIG STEP TIME: 2.48 s
+
+TOO BIG STEP TIME: 2.14 s
+
+TOO BIG STEP TIME: 2.37 s
+
+TOO BIG STEP TIME: 2.19 s
+
+TOO BIG STEP TIME: 2.41 s
+
+TOO BIG STEP TIME: 2.09 s
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.35 s
+
+TOO BIG STEP TIME: 2.69 s
+
+TOO BIG STEP TIME: 3.51 s
+
+TOO BIG STEP TIME: 2.97 s
+
+---------------------------------------
+
+Episode 137 ==> CRASH {-1.61,-0.49,138.74}    22/02/2023 16:58:58
+episode time: 39.17 s (avg step: 2.80 s) 
+episode steps: 14 
+episode reward: -49.00 
+episode max | avg | min reward: 0.40 | -3.77 | -50.00 
+T = 0.014012 
+
+TOO BIG STEP TIME: 2.04 s
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.27 s
+
+TOO BIG STEP TIME: 2.32 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.56 s
+
+TOO BIG STEP TIME: 2.49 s
+
+TOO BIG STEP TIME: 2.07 s
+
+TOO BIG STEP TIME: 2.60 s
+
+---------------------------------------
+
+Episode 138 ==> CRASH {-1.38,-0.24,-170.02}    22/02/2023 16:59:19
+episode time: 21.06 s (avg step: 3.51 s) 
+episode steps: 6 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -9.82 | -50.00 
+T = 0.013311 
+
+TOO BIG STEP TIME: 2.56 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.14 s
+
+TOO BIG STEP TIME: 2.41 s
+
+TOO BIG STEP TIME: 2.19 s
+
+TOO BIG STEP TIME: 2.03 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 2.21 s
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.02 s
+
+TOO BIG STEP TIME: 2.53 s
+
+TOO BIG STEP TIME: 2.57 s
+
+TOO BIG STEP TIME: 2.78 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 2.58 s
+
+TOO BIG STEP TIME: 2.35 s
+
+---------------------------------------
+
+Episode 139 ==> CRASH {-1.54,-0.56,-156.10}    22/02/2023 17:00:06
+episode time: 47.18 s (avg step: 2.95 s) 
+episode steps: 16 
+episode reward: -48.90 
+episode max | avg | min reward: 0.40 | -3.26 | -50.00 
+T = 0.012646 
+
+TOO BIG STEP TIME: 2.45 s
+
+TOO BIG STEP TIME: 2.53 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.43 s
+
+TOO BIG STEP TIME: 2.40 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.50 s
+
+TOO BIG STEP TIME: 2.49 s
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.37 s
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.02 s
+
+TOO BIG STEP TIME: 2.48 s
+
+TOO BIG STEP TIME: 2.60 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.40 s
+
+---------------------------------------
+
+Episode 140 ==> CRASH {-1.14,-2.28,156.85}    22/02/2023 17:00:44
+episode time: 38.16 s (avg step: 3.18 s) 
+episode steps: 12 
+episode reward: -49.50 
+episode max | avg | min reward: 0.40 | -4.50 | -50.00 
+T = 0.012014 
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.49 s
+
+TOO BIG STEP TIME: 2.37 s
+
+TOO BIG STEP TIME: 2.54 s
+
+TOO BIG STEP TIME: 2.58 s
+
+TOO BIG STEP TIME: 2.84 s
+
+TOO BIG STEP TIME: 3.27 s
+
+TOO BIG STEP TIME: 3.14 s
+
+---------------------------------------
+
+Episode 141 ==> CRASH {-1.35,-0.31,-95.81}    22/02/2023 17:01:08
+episode time: 23.83 s (avg step: 5.96 s) 
+episode steps: 4 
+episode reward: -49.90 
+episode max | avg | min reward: 0.40 | -16.63 | -50.00 
+T = 0.011413 
+
+TOO BIG STEP TIME: 2.33 s
+
+TOO BIG STEP TIME: 2.35 s
+
+TOO BIG STEP TIME: 2.46 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 2.86 s
+
+TOO BIG STEP TIME: 2.46 s
+
+TOO BIG STEP TIME: 2.48 s
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.46 s
+
+TOO BIG STEP TIME: 2.02 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.46 s
+
+TOO BIG STEP TIME: 2.45 s
+
+TOO BIG STEP TIME: 2.07 s
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.62 s
+
+TOO BIG STEP TIME: 2.43 s
+
+---------------------------------------
+
+Episode 142 ==> CRASH {-1.61,-0.50,132.16}    22/02/2023 17:01:51
+episode time: 42.55 s (avg step: 2.84 s) 
+episode steps: 15 
+episode reward: -49.00 
+episode max | avg | min reward: 0.40 | -3.50 | -50.00 
+T = 0.010842 
+
+TOO BIG STEP TIME: 2.35 s
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.25 s
+
+TOO BIG STEP TIME: 2.54 s
+
+TOO BIG STEP TIME: 2.14 s
+
+TOO BIG STEP TIME: 2.31 s
+
+TOO BIG STEP TIME: 3.41 s
+
+TOO BIG STEP TIME: 3.40 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.61 s
+
+TOO BIG STEP TIME: 2.37 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 2.20 s
+
+TOO BIG STEP TIME: 2.75 s
+
+TOO BIG STEP TIME: 2.60 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 2.54 s
+
+TOO BIG STEP TIME: 2.22 s
+
+TOO BIG STEP TIME: 2.04 s
+
+TOO BIG STEP TIME: 2.57 s
+
+TOO BIG STEP TIME: 2.46 s
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 2.41 s
+
+TOO BIG STEP TIME: 2.39 s
+
+---------------------------------------
+
+Episode 143 ==> CRASH {-1.02,-0.56,-69.99}    22/02/2023 17:02:59
+episode time: 67.93 s (avg step: 3.23 s) 
+episode steps: 21 
+episode reward: -50.10 
+episode max | avg | min reward: 0.40 | -2.50 | -50.00 
+T = 0.010300 
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.56 s
+
+TOO BIG STEP TIME: 2.20 s
+
+TOO BIG STEP TIME: 2.24 s
+
+TOO BIG STEP TIME: 2.55 s
+
+TOO BIG STEP TIME: 2.88 s
+
+TOO BIG STEP TIME: 3.03 s
+
+TOO BIG STEP TIME: 2.21 s
+
+TOO BIG STEP TIME: 2.84 s
+
+TOO BIG STEP TIME: 2.11 s
+
+TOO BIG STEP TIME: 2.61 s
+
+---------------------------------------
+
+Episode 144 ==> CRASH {-1.28,-0.93,-155.66}    22/02/2023 17:03:27
+episode time: 27.68 s (avg step: 3.46 s) 
+episode steps: 8 
+episode reward: -49.70 
+episode max | avg | min reward: 0.40 | -7.10 | -50.00 
+T = 0.009785 
+
+TOO BIG STEP TIME: 2.46 s
+
+TOO BIG STEP TIME: 2.44 s
+
+TOO BIG STEP TIME: 2.44 s
+
+TOO BIG STEP TIME: 2.33 s
+
+TOO BIG STEP TIME: 2.46 s
+
+TOO BIG STEP TIME: 2.48 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.40 s
+
+TOO BIG STEP TIME: 2.57 s
+
+TOO BIG STEP TIME: 2.25 s
+
+TOO BIG STEP TIME: 2.71 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.44 s
+
+TOO BIG STEP TIME: 2.34 s
+
+---------------------------------------
+
+Episode 145 ==> CRASH {-1.56,-0.54,40.02}    22/02/2023 17:04:03
+episode time: 36.55 s (avg step: 3.66 s) 
+episode steps: 10 
+episode reward: -48.50 
+episode max | avg | min reward: 0.40 | -5.39 | -50.00 
+T = 0.009296 
+
+TOO BIG STEP TIME: 2.44 s
+
+TOO BIG STEP TIME: 2.56 s
+
+TOO BIG STEP TIME: 2.33 s
+
+TOO BIG STEP TIME: 2.64 s
+
+TOO BIG STEP TIME: 2.18 s
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 3.22 s
+
+TOO BIG STEP TIME: 2.68 s
+
+TOO BIG STEP TIME: 2.78 s
+
+TOO BIG STEP TIME: 2.48 s
+
+TOO BIG STEP TIME: 2.52 s
+
+---------------------------------------
+
+Episode 146 ==> CRASH {-1.51,-0.40,-148.36}    22/02/2023 17:04:34
+episode time: 30.80 s (avg step: 4.40 s) 
+episode steps: 7 
+episode reward: -49.40 
+episode max | avg | min reward: 0.40 | -8.23 | -50.00 
+T = 0.008831 
+
+TOO BIG STEP TIME: 2.44 s
+
+TOO BIG STEP TIME: 2.55 s
+
+TOO BIG STEP TIME: 2.33 s
+
+TOO BIG STEP TIME: 2.29 s
+
+TOO BIG STEP TIME: 2.55 s
+
+TOO BIG STEP TIME: 2.43 s
+
+TOO BIG STEP TIME: 2.97 s
+
+TOO BIG STEP TIME: 2.41 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 2.37 s
+
+TOO BIG STEP TIME: 2.60 s
+
+TOO BIG STEP TIME: 2.87 s
+
+TOO BIG STEP TIME: 2.65 s
+
+TOO BIG STEP TIME: 3.11 s
+
+---------------------------------------
+
+Episode 147 ==> CRASH {-1.62,-0.22,-38.62}    22/02/2023 17:05:10
+episode time: 36.23 s (avg step: 4.03 s) 
+episode steps: 9 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -6.20 | -50.00 
+T = 0.008390 
+
+TOO BIG STEP TIME: 2.75 s
+
+TOO BIG STEP TIME: 2.97 s
+
+TOO BIG STEP TIME: 2.89 s
+
+TOO BIG STEP TIME: 2.36 s
+
+TOO BIG STEP TIME: 2.92 s
+
+TOO BIG STEP TIME: 3.89 s
+
+TOO BIG STEP TIME: 2.92 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.85 s
+
+TOO BIG STEP TIME: 2.35 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.40 s
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.11 s
+
+TOO BIG STEP TIME: 2.44 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.02 s
+
+---------------------------------------
+
+Episode 148 ==> CRASH {-1.39,-0.31,-144.95}    22/02/2023 17:05:57
+episode time: 46.50 s (avg step: 3.87 s) 
+episode steps: 12 
+episode reward: -48.10 
+episode max | avg | min reward: 0.40 | -4.37 | -50.00 
+T = 0.007970 
+
+TOO BIG STEP TIME: 2.31 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.66 s
+
+TOO BIG STEP TIME: 2.28 s
+
+TOO BIG STEP TIME: 2.46 s
+
+TOO BIG STEP TIME: 2.86 s
+
+TOO BIG STEP TIME: 2.34 s
+
+TOO BIG STEP TIME: 2.84 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.23 s
+
+TOO BIG STEP TIME: 2.25 s
+
+TOO BIG STEP TIME: 2.33 s
+
+TOO BIG STEP TIME: 2.05 s
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 5.25 s
+
+TOO BIG STEP TIME: 3.12 s
+
+TOO BIG STEP TIME: 2.75 s
+
+TOO BIG STEP TIME: 3.64 s
+
+TOO BIG STEP TIME: 3.07 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.13 s
+
+TOO BIG STEP TIME: 2.26 s
+
+TOO BIG STEP TIME: 2.34 s
+
+---------------------------------------
+
+Episode 149 ==> CRASH {-0.43,2.40,164.48}    22/02/2023 17:07:00
+episode time: 62.74 s (avg step: 3.30 s) 
+episode steps: 19 
+episode reward: -48.60 
+episode max | avg | min reward: 0.60 | -2.70 | -50.00 
+T = 0.007572 
+
+TOO BIG STEP TIME: 2.88 s
+
+TOO BIG STEP TIME: 2.94 s
+
+TOO BIG STEP TIME: 4.08 s
+
+TOO BIG STEP TIME: 3.34 s
+
+TOO BIG STEP TIME: 3.30 s
+
+TOO BIG STEP TIME: 3.08 s
+
+---------------------------------------
+
+Episode 150 ==> CRASH {-1.28,-0.26,177.77}    22/02/2023 17:07:19
+episode time: 19.59 s (avg step: 6.53 s) 
+episode steps: 3 
+episode reward: -50.30 
+episode max | avg | min reward: -0.30 | -25.15 | -50.00 
+T = 0.007193 
+
+TOO BIG STEP TIME: 2.75 s
+
+TOO BIG STEP TIME: 2.55 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 2.85 s
+
+TOO BIG STEP TIME: 2.97 s
+
+TOO BIG STEP TIME: 4.95 s
+
+TOO BIG STEP TIME: 3.98 s
+
+TOO BIG STEP TIME: 3.52 s
+
+TOO BIG STEP TIME: 4.63 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 2.47 s
+
+TOO BIG STEP TIME: 3.46 s
+
+---------------------------------------
+
+Episode 151 ==> CRASH {-1.37,-0.54,-57.23}    22/02/2023 17:08:04
+episode time: 44.36 s (avg step: 4.93 s) 
+episode steps: 9 
+episode reward: -50.70 
+episode max | avg | min reward: 0.40 | -6.34 | -50.00 
+T = 0.006833 
+
+TOO BIG STEP TIME: 2.89 s
+
+TOO BIG STEP TIME: 3.59 s
+
+TOO BIG STEP TIME: 2.60 s
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 2.66 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 2.39 s
+
+TOO BIG STEP TIME: 2.50 s
+
+TOO BIG STEP TIME: 2.75 s
+
+TOO BIG STEP TIME: 2.45 s
+
+TOO BIG STEP TIME: 2.79 s
+
+TOO BIG STEP TIME: 2.60 s
+
+TOO BIG STEP TIME: 2.87 s
+
+TOO BIG STEP TIME: 3.40 s
+
+TOO BIG STEP TIME: 3.54 s
+
+TOO BIG STEP TIME: 3.25 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 2.71 s
+
+TOO BIG STEP TIME: 2.64 s
+
+---------------------------------------
+
+Episode 152 ==> CRASH {-0.20,-0.32,69.85}    22/02/2023 17:08:58
+episode time: 53.90 s (avg step: 3.37 s) 
+episode steps: 16 
+episode reward: -49.30 
+episode max | avg | min reward: 0.40 | -3.29 | -50.00 
+T = 0.006492 
+
+TOO BIG STEP TIME: 2.95 s
+
+TOO BIG STEP TIME: 2.71 s
+
+TOO BIG STEP TIME: 2.56 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.47 s
+
+TOO BIG STEP TIME: 2.73 s
+
+TOO BIG STEP TIME: 2.97 s
+
+TOO BIG STEP TIME: 2.92 s
+
+TOO BIG STEP TIME: 2.79 s
+
+TOO BIG STEP TIME: 2.41 s
+
+TOO BIG STEP TIME: 2.41 s
+
+---------------------------------------
+
+Episode 153 ==> CRASH {-1.29,-0.57,15.91}    22/02/2023 17:09:27
+episode time: 29.39 s (avg step: 3.67 s) 
+episode steps: 8 
+episode reward: -50.40 
+episode max | avg | min reward: 0.40 | -7.20 | -50.00 
+T = 0.006167 
+
+TOO BIG STEP TIME: 2.77 s
+
+TOO BIG STEP TIME: 2.47 s
+
+TOO BIG STEP TIME: 2.66 s
+
+TOO BIG STEP TIME: 3.07 s
+
+TOO BIG STEP TIME: 2.61 s
+
+TOO BIG STEP TIME: 2.92 s
+
+TOO BIG STEP TIME: 3.08 s
+
+TOO BIG STEP TIME: 4.50 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 2.12 s
+
+TOO BIG STEP TIME: 3.29 s
+
+TOO BIG STEP TIME: 2.63 s
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 3.01 s
+
+---------------------------------------
+
+Episode 154 ==> CRASH {-1.53,-0.31,157.86}    22/02/2023 17:10:09
+episode time: 41.19 s (avg step: 4.12 s) 
+episode steps: 10 
+episode reward: -50.10 
+episode max | avg | min reward: 0.40 | -5.57 | -50.00 
+T = 0.005859 
+
+TOO BIG STEP TIME: 2.85 s
+
+TOO BIG STEP TIME: 2.97 s
+
+TOO BIG STEP TIME: 2.16 s
+
+TOO BIG STEP TIME: 3.23 s
+
+TOO BIG STEP TIME: 3.06 s
+
+TOO BIG STEP TIME: 2.79 s
+
+---------------------------------------
+
+Episode 155 ==> CRASH {-1.37,-0.57,-43.31}    22/02/2023 17:10:26
+episode time: 16.97 s (avg step: 5.66 s) 
+episode steps: 3 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -24.80 | -50.00 
+T = 0.005566 
+
+TOO BIG STEP TIME: 2.84 s
+
+TOO BIG STEP TIME: 2.86 s
+
+TOO BIG STEP TIME: 2.51 s
+
+TOO BIG STEP TIME: 2.38 s
+
+TOO BIG STEP TIME: 2.61 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 2.59 s
+
+TOO BIG STEP TIME: 2.22 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.77 s
+
+TOO BIG STEP TIME: 3.44 s
+
+---------------------------------------
+
+Episode 156 ==> CRASH {-1.36,-0.51,14.57}    22/02/2023 17:10:55
+episode time: 29.62 s (avg step: 3.70 s) 
+episode steps: 8 
+episode reward: -49.00 
+episode max | avg | min reward: 0.40 | -7.00 | -50.00 
+T = 0.005287 
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 2.88 s
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 2.82 s
+
+TOO BIG STEP TIME: 2.76 s
+
+TOO BIG STEP TIME: 3.09 s
+
+TOO BIG STEP TIME: 2.62 s
+
+TOO BIG STEP TIME: 2.88 s
+
+TOO BIG STEP TIME: 2.56 s
+
+TOO BIG STEP TIME: 2.78 s
+
+TOO BIG STEP TIME: 3.19 s
+
+TOO BIG STEP TIME: 2.62 s
+
+TOO BIG STEP TIME: 2.85 s
+
+TOO BIG STEP TIME: 3.25 s
+
+---------------------------------------
+
+Episode 157 ==> CRASH {0.04,-0.67,9.75}    22/02/2023 17:11:36
+episode time: 40.51 s (avg step: 4.05 s) 
+episode steps: 10 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -5.51 | -50.00 
+T = 0.005023 
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.72 s
+
+TOO BIG STEP TIME: 3.08 s
+
+TOO BIG STEP TIME: 2.57 s
+
+TOO BIG STEP TIME: 2.68 s
+
+TOO BIG STEP TIME: 2.37 s
+
+TOO BIG STEP TIME: 2.59 s
+
+TOO BIG STEP TIME: 2.40 s
+
+TOO BIG STEP TIME: 2.66 s
+
+TOO BIG STEP TIME: 3.13 s
+
+TOO BIG STEP TIME: 3.11 s
+
+TOO BIG STEP TIME: 2.61 s
+
+TOO BIG STEP TIME: 2.98 s
+
+TOO BIG STEP TIME: 2.81 s
+
+TOO BIG STEP TIME: 2.30 s
+
+TOO BIG STEP TIME: 2.68 s
+
+TOO BIG STEP TIME: 2.17 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 2.61 s
+
+TOO BIG STEP TIME: 2.69 s
+
+---------------------------------------
+
+Episode 158 ==> CRASH {-0.18,-0.54,-63.06}    22/02/2023 17:12:29
+episode time: 53.29 s (avg step: 3.55 s) 
+episode steps: 15 
+episode reward: -48.30 
+episode max | avg | min reward: 0.40 | -3.45 | -50.00 
+T = 0.004772 
+
+TOO BIG STEP TIME: 3.11 s
+
+TOO BIG STEP TIME: 2.78 s
+
+TOO BIG STEP TIME: 3.40 s
+
+TOO BIG STEP TIME: 2.65 s
+
+TOO BIG STEP TIME: 2.48 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.68 s
+
+TOO BIG STEP TIME: 2.88 s
+
+TOO BIG STEP TIME: 3.26 s
+
+TOO BIG STEP TIME: 3.37 s
+
+TOO BIG STEP TIME: 3.22 s
+
+TOO BIG STEP TIME: 3.44 s
+
+TOO BIG STEP TIME: 2.68 s
+
+TOO BIG STEP TIME: 2.77 s
+
+TOO BIG STEP TIME: 3.27 s
+
+TOO BIG STEP TIME: 3.22 s
+
+TOO BIG STEP TIME: 2.87 s
+
+---------------------------------------
+
+Episode 159 ==> CRASH {-1.41,-0.56,-179.45}    22/02/2023 17:13:26
+episode time: 56.54 s (avg step: 4.35 s) 
+episode steps: 13 
+episode reward: -49.80 
+episode max | avg | min reward: 0.40 | -4.15 | -50.00 
+T = 0.004533 
+
+TOO BIG STEP TIME: 2.63 s
+
+TOO BIG STEP TIME: 2.95 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 3.02 s
+
+TOO BIG STEP TIME: 3.54 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 2.66 s
+
+TOO BIG STEP TIME: 2.55 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 2.86 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 3.16 s
+
+TOO BIG STEP TIME: 2.76 s
+
+TOO BIG STEP TIME: 3.29 s
+
+TOO BIG STEP TIME: 3.31 s
+
+TOO BIG STEP TIME: 3.41 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 2.99 s
+
+TOO BIG STEP TIME: 2.63 s
+
+TOO BIG STEP TIME: 2.56 s
+
+TOO BIG STEP TIME: 2.89 s
+
+TOO BIG STEP TIME: 3.03 s
+
+TOO BIG STEP TIME: 2.49 s
+
+TOO BIG STEP TIME: 3.09 s
+
+TOO BIG STEP TIME: 3.55 s
+
+TOO BIG STEP TIME: 3.07 s
+
+TOO BIG STEP TIME: 3.33 s
+
+---------------------------------------
+
+Episode 160 ==> CRASH {0.95,-0.15,79.49}    22/02/2023 17:14:52
+episode time: 85.87 s (avg step: 5.37 s) 
+episode steps: 16 
+episode reward: -50.00 
+episode max | avg | min reward: 0.40 | -3.33 | -50.00 
+T = 0.004307 
+
+TOO BIG STEP TIME: 3.03 s
+
+TOO BIG STEP TIME: 3.07 s
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 2.97 s
+
+TOO BIG STEP TIME: 2.69 s
+
+TOO BIG STEP TIME: 2.89 s
+
+TOO BIG STEP TIME: 2.89 s
+
+TOO BIG STEP TIME: 2.83 s
+
+---------------------------------------
+
+Episode 161 ==> CRASH {-1.25,-0.23,-66.56}    22/02/2023 17:15:15
+episode time: 23.46 s (avg step: 7.82 s) 
+episode steps: 3 
+episode reward: -50.30 
+episode max | avg | min reward: -0.30 | -25.15 | -50.00 
+T = 0.004091 
+
+TOO BIG STEP TIME: 3.99 s
+
+TOO BIG STEP TIME: 3.08 s
+
+TOO BIG STEP TIME: 2.83 s
+
+TOO BIG STEP TIME: 2.88 s
+
+TOO BIG STEP TIME: 2.61 s
+
+TOO BIG STEP TIME: 2.94 s
+
+TOO BIG STEP TIME: 2.93 s
+
+TOO BIG STEP TIME: 2.72 s
+
+---------------------------------------
+
+Episode 162 ==> CRASH {-0.83,-0.57,-17.00}    22/02/2023 17:15:39
+episode time: 23.87 s (avg step: 4.77 s) 
+episode steps: 5 
+episode reward: -49.30 
+episode max | avg | min reward: 0.60 | -12.32 | -50.00 
+T = 0.003887 
+
+TOO BIG STEP TIME: 2.58 s
+
+TOO BIG STEP TIME: 2.54 s
+
+TOO BIG STEP TIME: 3.49 s
+
+TOO BIG STEP TIME: 3.24 s
+
+TOO BIG STEP TIME: 3.10 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 2.94 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 2.48 s
+
+TOO BIG STEP TIME: 2.94 s
+
+---------------------------------------
+
+Episode 163 ==> CRASH {-1.37,-0.40,-105.51}    22/02/2023 17:16:08
+episode time: 28.92 s (avg step: 4.13 s) 
+episode steps: 7 
+episode reward: -49.40 
+episode max | avg | min reward: 0.40 | -8.23 | -50.00 
+T = 0.003692 
+
+TOO BIG STEP TIME: 2.74 s
+
+TOO BIG STEP TIME: 2.81 s
+
+TOO BIG STEP TIME: 2.86 s
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 3.13 s
+
+TOO BIG STEP TIME: 3.45 s
+
+TOO BIG STEP TIME: 3.09 s
+
+TOO BIG STEP TIME: 2.51 s
+
+TOO BIG STEP TIME: 2.64 s
+
+TOO BIG STEP TIME: 2.66 s
+
+TOO BIG STEP TIME: 2.88 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.95 s
+
+TOO BIG STEP TIME: 3.17 s
+
+TOO BIG STEP TIME: 2.58 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 2.94 s
+
+TOO BIG STEP TIME: 2.52 s
+
+TOO BIG STEP TIME: 2.76 s
+
+TOO BIG STEP TIME: 2.92 s
+
+TOO BIG STEP TIME: 3.02 s
+
+TOO BIG STEP TIME: 2.72 s
+
+TOO BIG STEP TIME: 2.73 s
+
+TOO BIG STEP TIME: 2.76 s
+
+TOO BIG STEP TIME: 2.55 s
+
+TOO BIG STEP TIME: 2.59 s
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 3.91 s
+
+---------------------------------------
+
+Episode 164 ==> CRASH {-1.43,-0.46,37.52}    22/02/2023 17:17:32
+episode time: 83.39 s (avg step: 3.34 s) 
+episode steps: 25 
+episode reward: -49.20 
+episode max | avg | min reward: 0.40 | -2.05 | -50.00 
+T = 0.003508 
+
+TOO BIG STEP TIME: 3.84 s
+
+TOO BIG STEP TIME: 2.68 s
+
+TOO BIG STEP TIME: 3.60 s
+
+TOO BIG STEP TIME: 2.84 s
+
+TOO BIG STEP TIME: 2.83 s
+
+TOO BIG STEP TIME: 3.03 s
+
+TOO BIG STEP TIME: 3.10 s
+
+TOO BIG STEP TIME: 2.94 s
+
+TOO BIG STEP TIME: 3.72 s
+
+TOO BIG STEP TIME: 3.75 s
+
+TOO BIG STEP TIME: 3.38 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.01 s
+
+---------------------------------------
+
+Episode 165 ==> CRASH {-1.40,-0.68,40.72}    22/02/2023 17:18:14
+episode time: 42.00 s (avg step: 7.00 s) 
+episode steps: 6 
+episode reward: -49.80 
+episode max | avg | min reward: 0.40 | -9.96 | -50.00 
+T = 0.003332 
+
+TOO BIG STEP TIME: 2.99 s
+
+TOO BIG STEP TIME: 3.17 s
+
+TOO BIG STEP TIME: 2.60 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 2.91 s
+
+TOO BIG STEP TIME: 2.62 s
+
+TOO BIG STEP TIME: 3.54 s
+
+TOO BIG STEP TIME: 3.51 s
+
+TOO BIG STEP TIME: 3.71 s
+
+TOO BIG STEP TIME: 2.85 s
+
+TOO BIG STEP TIME: 2.95 s
+
+TOO BIG STEP TIME: 3.23 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 2.95 s
+
+TOO BIG STEP TIME: 2.97 s
+
+TOO BIG STEP TIME: 2.90 s
+
+TOO BIG STEP TIME: 3.47 s
+
+TOO BIG STEP TIME: 3.24 s
+
+TOO BIG STEP TIME: 2.83 s
+
+TOO BIG STEP TIME: 2.71 s
+
+TOO BIG STEP TIME: 2.92 s
+
+TOO BIG STEP TIME: 2.84 s
+
+---------------------------------------
+
+Episode 166 ==> CRASH {-1.40,-0.49,26.61}    22/02/2023 17:19:21
+episode time: 67.20 s (avg step: 3.54 s) 
+episode steps: 19 
+episode reward: -48.80 
+episode max | avg | min reward: 0.40 | -2.71 | -50.00 
+T = 0.003166 
+
+TOO BIG STEP TIME: 3.02 s
+
+TOO BIG STEP TIME: 2.73 s
+
+TOO BIG STEP TIME: 2.71 s
+
+TOO BIG STEP TIME: 3.80 s
+
+TOO BIG STEP TIME: 3.59 s
+
+TOO BIG STEP TIME: 4.63 s
+
+TOO BIG STEP TIME: 4.70 s
+
+TOO BIG STEP TIME: 3.83 s
+
+TOO BIG STEP TIME: 3.65 s
+
+TOO BIG STEP TIME: 3.71 s
+
+TOO BIG STEP TIME: 3.74 s
+
+TOO BIG STEP TIME: 3.99 s
+
+TOO BIG STEP TIME: 4.44 s
+
+TOO BIG STEP TIME: 4.55 s
+
+TOO BIG STEP TIME: 4.33 s
+
+TOO BIG STEP TIME: 3.46 s
+
+TOO BIG STEP TIME: 3.34 s
+
+TOO BIG STEP TIME: 3.35 s
+
+TOO BIG STEP TIME: 3.29 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 3.12 s
+
+TOO BIG STEP TIME: 3.28 s
+
+TOO BIG STEP TIME: 3.22 s
+
+---------------------------------------
+
+Episode 167 ==> CRASH {-0.48,1.18,6.46}    22/02/2023 17:20:45
+episode time: 83.48 s (avg step: 4.64 s) 
+episode steps: 18 
+episode reward: -47.90 
+episode max | avg | min reward: 0.60 | -2.82 | -50.00 
+T = 0.003008 
+
+TOO BIG STEP TIME: 3.62 s
+
+TOO BIG STEP TIME: 3.96 s
+
+TOO BIG STEP TIME: 3.21 s
+
+TOO BIG STEP TIME: 3.12 s
+
+TOO BIG STEP TIME: 3.63 s
+
+TOO BIG STEP TIME: 3.00 s
+
+TOO BIG STEP TIME: 3.27 s
+
+TOO BIG STEP TIME: 3.81 s
+
+TOO BIG STEP TIME: 3.12 s
+
+TOO BIG STEP TIME: 3.81 s
+
+TOO BIG STEP TIME: 3.25 s
+
+TOO BIG STEP TIME: 2.95 s
+
+TOO BIG STEP TIME: 3.16 s
+
+---------------------------------------
+
+Episode 168 ==> CRASH {-1.39,-0.51,44.26}    22/02/2023 17:21:29
+episode time: 43.85 s (avg step: 14.62 s) 
+episode steps: 3 
+episode reward: -50.30 
+episode max | avg | min reward: -0.30 | -25.15 | -50.00 
+T = 0.002857 
+
+TOO BIG STEP TIME: 2.82 s
+
+TOO BIG STEP TIME: 3.10 s
+
+TOO BIG STEP TIME: 3.50 s
+
+TOO BIG STEP TIME: 3.18 s
+
+TOO BIG STEP TIME: 3.09 s
+
+TOO BIG STEP TIME: 2.95 s
+
+TOO BIG STEP TIME: 3.29 s
+
+TOO BIG STEP TIME: 3.76 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.72 s
+
+TOO BIG STEP TIME: 3.38 s
+
+TOO BIG STEP TIME: 2.93 s
+
+---------------------------------------
+
+Episode 169 ==> CRASH {-1.31,-0.39,-131.44}    22/02/2023 17:22:08
+episode time: 39.03 s (avg step: 6.51 s) 
+episode steps: 6 
+episode reward: -49.80 
+episode max | avg | min reward: 0.40 | -9.96 | -50.00 
+T = 0.002714 
+
+TOO BIG STEP TIME: 2.87 s
+
+TOO BIG STEP TIME: 3.20 s
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 3.00 s
+
+TOO BIG STEP TIME: 3.16 s
+
+TOO BIG STEP TIME: 3.56 s
+
+TOO BIG STEP TIME: 3.44 s
+
+TOO BIG STEP TIME: 3.16 s
+
+TOO BIG STEP TIME: 3.31 s
+
+TOO BIG STEP TIME: 3.52 s
+
+TOO BIG STEP TIME: 3.21 s
+
+TOO BIG STEP TIME: 3.11 s
+
+TOO BIG STEP TIME: 3.26 s
+
+TOO BIG STEP TIME: 3.50 s
+
+TOO BIG STEP TIME: 3.75 s
+
+TOO BIG STEP TIME: 3.71 s
+
+TOO BIG STEP TIME: 4.30 s
+
+TOO BIG STEP TIME: 3.23 s
+
+TOO BIG STEP TIME: 2.92 s
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 2.89 s
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 2.62 s
+
+---------------------------------------
+
+Episode 170 ==> CRASH {-0.03,0.69,53.52}    22/02/2023 17:23:26
+episode time: 78.07 s (avg step: 3.72 s) 
+episode steps: 21 
+episode reward: -47.20 
+episode max | avg | min reward: 0.60 | -2.36 | -50.00 
+T = 0.002579 
+
+TOO BIG STEP TIME: 3.42 s
+
+TOO BIG STEP TIME: 3.23 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 3.56 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 3.16 s
+
+TOO BIG STEP TIME: 3.30 s
+
+TOO BIG STEP TIME: 3.00 s
+
+TOO BIG STEP TIME: 3.55 s
+
+TOO BIG STEP TIME: 3.13 s
+
+TOO BIG STEP TIME: 3.57 s
+
+TOO BIG STEP TIME: 3.38 s
+
+TOO BIG STEP TIME: 2.93 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 3.29 s
+
+TOO BIG STEP TIME: 2.77 s
+
+TOO BIG STEP TIME: 3.77 s
+
+TOO BIG STEP TIME: 2.70 s
+
+TOO BIG STEP TIME: 3.06 s
+
+TOO BIG STEP TIME: 3.67 s
+
+TOO BIG STEP TIME: 3.51 s
+
+TOO BIG STEP TIME: 3.52 s
+
+---------------------------------------
+
+Episode 171 ==> CRASH {-1.59,-0.51,136.64}    22/02/2023 17:24:44
+episode time: 77.59 s (avg step: 4.85 s) 
+episode steps: 16 
+episode reward: -50.70 
+episode max | avg | min reward: 0.40 | -3.38 | -50.00 
+T = 0.002450 
+
+TOO BIG STEP TIME: 3.63 s
+
+TOO BIG STEP TIME: 3.46 s
+
+TOO BIG STEP TIME: 3.41 s
+
+TOO BIG STEP TIME: 3.33 s
+
+TOO BIG STEP TIME: 2.92 s
+
+TOO BIG STEP TIME: 3.21 s
+
+TOO BIG STEP TIME: 3.32 s
+
+TOO BIG STEP TIME: 3.21 s
+
+TOO BIG STEP TIME: 3.66 s
+
+TOO BIG STEP TIME: 3.63 s
+
+TOO BIG STEP TIME: 3.00 s
+
+TOO BIG STEP TIME: 3.48 s
+
+TOO BIG STEP TIME: 2.76 s
+
+TOO BIG STEP TIME: 3.06 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 3.09 s
+
+TOO BIG STEP TIME: 3.18 s
+
+TOO BIG STEP TIME: 3.60 s
+
+TOO BIG STEP TIME: 3.10 s
+
+TOO BIG STEP TIME: 3.57 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 3.07 s
+
+TOO BIG STEP TIME: 2.81 s
+
+TOO BIG STEP TIME: 3.53 s
+
+TOO BIG STEP TIME: 3.12 s
+
+TOO BIG STEP TIME: 3.26 s
+
+TOO BIG STEP TIME: 3.57 s
+
+---------------------------------------
+
+Episode 172 ==> CRASH {-1.57,-0.45,-26.87}    22/02/2023 17:26:12
+episode time: 87.94 s (avg step: 5.17 s) 
+episode steps: 17 
+episode reward: -50.10 
+episode max | avg | min reward: 0.40 | -3.13 | -50.00 
+T = 0.002327 
+
+TOO BIG STEP TIME: 4.30 s
+
+TOO BIG STEP TIME: 4.51 s
+
+TOO BIG STEP TIME: 3.55 s
+
+TOO BIG STEP TIME: 3.42 s
+
+TOO BIG STEP TIME: 3.58 s
+
+TOO BIG STEP TIME: 3.04 s
+
+TOO BIG STEP TIME: 3.24 s
+
+TOO BIG STEP TIME: 2.98 s
+
+---------------------------------------
+
+Episode 173 ==> CRASH {-1.04,-0.51,27.88}    22/02/2023 17:26:40
+episode time: 28.54 s (avg step: 14.27 s) 
+episode steps: 2 
+episode reward: -50.00 
+episode max | avg | min reward: -50.00 | -50.00 | -50.00 
+T = 0.002211 
+
+TOO BIG STEP TIME: 3.49 s
+
+TOO BIG STEP TIME: 3.69 s
+
+TOO BIG STEP TIME: 4.05 s
+
+TOO BIG STEP TIME: 3.33 s
+
+TOO BIG STEP TIME: 3.31 s
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 3.06 s
+
+TOO BIG STEP TIME: 3.27 s
+
+TOO BIG STEP TIME: 3.59 s
+
+TOO BIG STEP TIME: 3.53 s
+
+TOO BIG STEP TIME: 4.10 s
+
+TOO BIG STEP TIME: 3.33 s
+
+---------------------------------------
+
+Episode 174 ==> CRASH {-1.57,-0.54,-178.43}    22/02/2023 17:27:25
+episode time: 44.89 s (avg step: 6.41 s) 
+episode steps: 7 
+episode reward: -49.90 
+episode max | avg | min reward: 0.40 | -8.32 | -50.00 
+T = 0.002100 
+
+TOO BIG STEP TIME: 3.76 s
+
+TOO BIG STEP TIME: 3.20 s
+
+TOO BIG STEP TIME: 3.19 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.11 s
+
+TOO BIG STEP TIME: 3.09 s
+
+TOO BIG STEP TIME: 3.04 s
+
+TOO BIG STEP TIME: 3.48 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.18 s
+
+TOO BIG STEP TIME: 4.27 s
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 3.55 s
+
+TOO BIG STEP TIME: 2.95 s
+
+TOO BIG STEP TIME: 2.79 s
+
+TOO BIG STEP TIME: 3.21 s
+
+TOO BIG STEP TIME: 2.98 s
+
+TOO BIG STEP TIME: 3.80 s
+
+TOO BIG STEP TIME: 3.47 s
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 3.24 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 2.96 s
+
+TOO BIG STEP TIME: 3.37 s
+
+TOO BIG STEP TIME: 2.80 s
+
+TOO BIG STEP TIME: 3.32 s
+
+---------------------------------------
+
+Episode 175 ==> CRASH {-1.47,-0.46,61.77}    22/02/2023 17:28:50
+episode time: 84.72 s (avg step: 7.06 s) 
+episode steps: 12 
+episode reward: -49.50 
+episode max | avg | min reward: 0.40 | -4.50 | -50.00 
+T = 0.001995 
+
+TOO BIG STEP TIME: 3.26 s
+
+TOO BIG STEP TIME: 2.83 s
+
+TOO BIG STEP TIME: 3.68 s
+
+TOO BIG STEP TIME: 3.80 s
+
+TOO BIG STEP TIME: 3.55 s
+
+TOO BIG STEP TIME: 3.22 s
+
+TOO BIG STEP TIME: 3.57 s
+
+TOO BIG STEP TIME: 3.59 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 3.07 s
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 3.45 s
+
+TOO BIG STEP TIME: 3.80 s
+
+TOO BIG STEP TIME: 3.23 s
+
+TOO BIG STEP TIME: 3.55 s
+
+TOO BIG STEP TIME: 3.55 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 3.83 s
+
+TOO BIG STEP TIME: 3.12 s
+
+TOO BIG STEP TIME: 3.33 s
+
+TOO BIG STEP TIME: 3.56 s
+
+TOO BIG STEP TIME: 3.74 s
+
+TOO BIG STEP TIME: 3.64 s
+
+TOO BIG STEP TIME: 3.08 s
+
+---------------------------------------
+
+Episode 176 ==> CRASH {-1.42,-0.47,37.85}    22/02/2023 17:30:12
+episode time: 81.59 s (avg step: 4.08 s) 
+episode steps: 20 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -2.58 | -50.00 
+T = 0.001895 
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 3.54 s
+
+TOO BIG STEP TIME: 3.05 s
+
+TOO BIG STEP TIME: 3.00 s
+
+TOO BIG STEP TIME: 3.16 s
+
+TOO BIG STEP TIME: 3.06 s
+
+TOO BIG STEP TIME: 3.48 s
+
+TOO BIG STEP TIME: 3.79 s
+
+TOO BIG STEP TIME: 3.58 s
+
+TOO BIG STEP TIME: 3.49 s
+
+TOO BIG STEP TIME: 3.03 s
+
+TOO BIG STEP TIME: 3.41 s
+
+TOO BIG STEP TIME: 2.90 s
+
+---------------------------------------
+
+Episode 177 ==> CRASH {-1.45,-0.56,-172.27}    22/02/2023 17:30:54
+episode time: 42.58 s (avg step: 4.73 s) 
+episode steps: 9 
+episode reward: -49.30 
+episode max | avg | min reward: 0.40 | -6.16 | -50.00 
+T = 0.001801 
+
+TOO BIG STEP TIME: 3.33 s
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 2.91 s
+
+TOO BIG STEP TIME: 3.07 s
+
+TOO BIG STEP TIME: 3.19 s
+
+TOO BIG STEP TIME: 3.84 s
+
+TOO BIG STEP TIME: 3.01 s
+
+TOO BIG STEP TIME: 3.20 s
+
+TOO BIG STEP TIME: 3.41 s
+
+---------------------------------------
+
+Episode 178 ==> CRASH {-1.50,-0.46,51.98}    22/02/2023 17:31:23
+episode time: 29.07 s (avg step: 14.54 s) 
+episode steps: 2 
+episode reward: -50.00 
+episode max | avg | min reward: -50.00 | -50.00 | -50.00 
+T = 0.001711 
+
+TOO BIG STEP TIME: 2.94 s
+
+TOO BIG STEP TIME: 4.29 s
+
+TOO BIG STEP TIME: 3.31 s
+
+TOO BIG STEP TIME: 3.12 s
+
+TOO BIG STEP TIME: 3.64 s
+
+TOO BIG STEP TIME: 3.57 s
+
+TOO BIG STEP TIME: 3.44 s
+
+TOO BIG STEP TIME: 4.27 s
+
+TOO BIG STEP TIME: 3.38 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.04 s
+
+TOO BIG STEP TIME: 3.33 s
+
+TOO BIG STEP TIME: 3.49 s
+
+TOO BIG STEP TIME: 2.82 s
+
+TOO BIG STEP TIME: 3.10 s
+
+TOO BIG STEP TIME: 3.77 s
+
+TOO BIG STEP TIME: 4.36 s
+
+TOO BIG STEP TIME: 3.93 s
+
+TOO BIG STEP TIME: 3.40 s
+
+TOO BIG STEP TIME: 3.85 s
+
+TOO BIG STEP TIME: 3.45 s
+
+TOO BIG STEP TIME: 3.65 s
+
+TOO BIG STEP TIME: 2.84 s
+
+---------------------------------------
+
+Episode 179 ==> CRASH {-1.01,-0.61,-55.47}    22/02/2023 17:32:44
+episode time: 80.35 s (avg step: 4.23 s) 
+episode steps: 19 
+episode reward: -49.50 
+episode max | avg | min reward: 0.40 | -2.75 | -50.00 
+T = 0.001625 
+
+TOO BIG STEP TIME: 3.78 s
+
+TOO BIG STEP TIME: 4.05 s
+
+TOO BIG STEP TIME: 3.82 s
+
+TOO BIG STEP TIME: 3.66 s
+
+TOO BIG STEP TIME: 3.62 s
+
+TOO BIG STEP TIME: 4.00 s
+
+TOO BIG STEP TIME: 3.78 s
+
+TOO BIG STEP TIME: 3.60 s
+
+TOO BIG STEP TIME: 4.08 s
+
+TOO BIG STEP TIME: 3.95 s
+
+TOO BIG STEP TIME: 4.35 s
+
+TOO BIG STEP TIME: 3.49 s
+
+---------------------------------------
+
+Episode 180 ==> CRASH {-1.70,0.07,167.66}    22/02/2023 17:33:30
+episode time: 46.03 s (avg step: 15.34 s) 
+episode steps: 3 
+episode reward: -50.30 
+episode max | avg | min reward: -0.30 | -25.15 | -50.00 
+T = 0.001544 
+
+TOO BIG STEP TIME: 3.61 s
+
+TOO BIG STEP TIME: 3.69 s
+
+TOO BIG STEP TIME: 3.45 s
+
+TOO BIG STEP TIME: 3.68 s
+
+TOO BIG STEP TIME: 3.65 s
+
+TOO BIG STEP TIME: 3.69 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 3.58 s
+
+TOO BIG STEP TIME: 4.22 s
+
+TOO BIG STEP TIME: 3.18 s
+
+TOO BIG STEP TIME: 3.85 s
+
+TOO BIG STEP TIME: 3.73 s
+
+TOO BIG STEP TIME: 3.58 s
+
+---------------------------------------
+
+Episode 181 ==> CRASH {-1.33,-0.55,-23.02}    22/02/2023 17:34:18
+episode time: 48.19 s (avg step: 5.35 s) 
+episode steps: 9 
+episode reward: -50.70 
+episode max | avg | min reward: 0.40 | -6.34 | -50.00 
+T = 0.001467 
+
+TOO BIG STEP TIME: 3.59 s
+
+TOO BIG STEP TIME: 3.73 s
+
+TOO BIG STEP TIME: 4.25 s
+
+TOO BIG STEP TIME: 3.99 s
+
+TOO BIG STEP TIME: 3.96 s
+
+TOO BIG STEP TIME: 3.85 s
+
+TOO BIG STEP TIME: 3.36 s
+
+TOO BIG STEP TIME: 4.15 s
+
+TOO BIG STEP TIME: 4.01 s
+
+TOO BIG STEP TIME: 3.51 s
+
+TOO BIG STEP TIME: 4.75 s
+
+TOO BIG STEP TIME: 4.02 s
+
+TOO BIG STEP TIME: 4.58 s
+
+TOO BIG STEP TIME: 3.56 s
+
+TOO BIG STEP TIME: 4.24 s
+
+TOO BIG STEP TIME: 3.31 s
+
+TOO BIG STEP TIME: 3.71 s
+
+TOO BIG STEP TIME: 3.87 s
+
+TOO BIG STEP TIME: 3.47 s
+
+TOO BIG STEP TIME: 3.90 s
+
+TOO BIG STEP TIME: 3.27 s
+
+TOO BIG STEP TIME: 3.62 s
+
+TOO BIG STEP TIME: 3.27 s
+
+TOO BIG STEP TIME: 3.84 s
+
+TOO BIG STEP TIME: 3.66 s
+
+---------------------------------------
+
+Episode 182 ==> CRASH {-1.57,-0.58,176.15}    22/02/2023 17:35:54
+episode time: 95.37 s (avg step: 11.92 s) 
+episode steps: 8 
+episode reward: -50.40 
+episode max | avg | min reward: 0.40 | -7.20 | -50.00 
+T = 0.001393 
+
+TOO BIG STEP TIME: 3.42 s
+
+TOO BIG STEP TIME: 3.85 s
+
+TOO BIG STEP TIME: 4.03 s
+
+TOO BIG STEP TIME: 3.61 s
+
+TOO BIG STEP TIME: 4.21 s
+
+TOO BIG STEP TIME: 3.64 s
+
+TOO BIG STEP TIME: 3.70 s
+
+TOO BIG STEP TIME: 3.68 s
+
+TOO BIG STEP TIME: 3.82 s
+
+TOO BIG STEP TIME: 3.97 s
+
+TOO BIG STEP TIME: 3.84 s
+
+TOO BIG STEP TIME: 3.94 s
+
+TOO BIG STEP TIME: 3.74 s
+
+TOO BIG STEP TIME: 4.00 s
+
+TOO BIG STEP TIME: 3.85 s
+
+TOO BIG STEP TIME: 3.44 s
+
+TOO BIG STEP TIME: 3.60 s
+
+TOO BIG STEP TIME: 3.81 s
+
+TOO BIG STEP TIME: 3.59 s
+
+---------------------------------------
+
+Episode 183 ==> CRASH {-0.47,1.46,-73.63}    22/02/2023 17:37:05
+episode time: 71.69 s (avg step: 5.12 s) 
+episode steps: 14 
+episode reward: -48.00 
+episode max | avg | min reward: 0.40 | -3.69 | -50.00 
+T = 0.001324 
+
+TOO BIG STEP TIME: 4.52 s
+
+TOO BIG STEP TIME: 4.06 s
+
+TOO BIG STEP TIME: 3.90 s
+
+TOO BIG STEP TIME: 3.94 s
+
+TOO BIG STEP TIME: 3.27 s
+
+TOO BIG STEP TIME: 3.53 s
+
+TOO BIG STEP TIME: 3.66 s
+
+TOO BIG STEP TIME: 3.15 s
+
+TOO BIG STEP TIME: 3.36 s
+
+TOO BIG STEP TIME: 3.62 s
+
+TOO BIG STEP TIME: 3.52 s
+
+TOO BIG STEP TIME: 4.40 s
+
+TOO BIG STEP TIME: 4.01 s
+
+TOO BIG STEP TIME: 3.77 s
+
+TOO BIG STEP TIME: 3.55 s
+
+TOO BIG STEP TIME: 4.12 s
+
+TOO BIG STEP TIME: 3.87 s
+
+TOO BIG STEP TIME: 3.52 s
+
+TOO BIG STEP TIME: 4.54 s
+
+TOO BIG STEP TIME: 3.20 s
+
+TOO BIG STEP TIME: 4.32 s
+
+TOO BIG STEP TIME: 3.68 s
+
+TOO BIG STEP TIME: 3.49 s
+
+---------------------------------------
+
+Episode 184 ==> CRASH {-1.90,-1.03,9.70}    22/02/2023 17:38:32
+episode time: 86.90 s (avg step: 4.34 s) 
+episode steps: 20 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -2.61 | -50.00 
+T = 0.001258 
+
+TOO BIG STEP TIME: 3.87 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.75 s
+
+TOO BIG STEP TIME: 3.76 s
+
+TOO BIG STEP TIME: 4.00 s
+
+TOO BIG STEP TIME: 4.59 s
+
+TOO BIG STEP TIME: 3.50 s
+
+TOO BIG STEP TIME: 4.44 s
+
+TOO BIG STEP TIME: 3.79 s
+
+TOO BIG STEP TIME: 4.16 s
+
+TOO BIG STEP TIME: 3.75 s
+
+TOO BIG STEP TIME: 3.19 s
+
+TOO BIG STEP TIME: 5.03 s
+
+TOO BIG STEP TIME: 4.33 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 3.81 s
+
+TOO BIG STEP TIME: 4.18 s
+
+TOO BIG STEP TIME: 3.70 s
+
+TOO BIG STEP TIME: 3.72 s
+
+TOO BIG STEP TIME: 4.00 s
+
+TOO BIG STEP TIME: 3.95 s
+
+TOO BIG STEP TIME: 4.29 s
+
+TOO BIG STEP TIME: 3.82 s
+
+TOO BIG STEP TIME: 3.32 s
+
+TOO BIG STEP TIME: 3.13 s
+
+TOO BIG STEP TIME: 4.06 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 3.14 s
+
+TOO BIG STEP TIME: 4.51 s
+
+TOO BIG STEP TIME: 4.36 s
+
+TOO BIG STEP TIME: 3.89 s
+
+TOO BIG STEP TIME: 4.39 s
+
+TOO BIG STEP TIME: 4.02 s
+
+---------------------------------------
+
+Episode 185 ==> CRASH {-0.33,-0.38,64.72}    22/02/2023 17:40:43
+episode time: 130.62 s (avg step: 10.05 s) 
+episode steps: 13 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -4.09 | -50.00 
+T = 0.001195 
+
+TOO BIG STEP TIME: 3.93 s
+
+TOO BIG STEP TIME: 3.73 s
+
+TOO BIG STEP TIME: 4.17 s
+
+TOO BIG STEP TIME: 3.71 s
+
+TOO BIG STEP TIME: 4.02 s
+
+TOO BIG STEP TIME: 4.30 s
+
+TOO BIG STEP TIME: 3.93 s
+
+TOO BIG STEP TIME: 3.76 s
+
+TOO BIG STEP TIME: 3.63 s
+
+TOO BIG STEP TIME: 3.89 s
+
+TOO BIG STEP TIME: 3.19 s
+
+TOO BIG STEP TIME: 3.50 s
+
+TOO BIG STEP TIME: 4.41 s
+
+TOO BIG STEP TIME: 3.51 s
+
+TOO BIG STEP TIME: 3.35 s
+
+TOO BIG STEP TIME: 4.09 s
+
+TOO BIG STEP TIME: 3.90 s
+
+TOO BIG STEP TIME: 3.49 s
+
+TOO BIG STEP TIME: 3.58 s
+
+TOO BIG STEP TIME: 3.85 s
+
+TOO BIG STEP TIME: 3.60 s
+
+TOO BIG STEP TIME: 3.65 s
+
+TOO BIG STEP TIME: 4.01 s
+
+TOO BIG STEP TIME: 4.09 s
+
+TOO BIG STEP TIME: 3.43 s
+
+---------------------------------------
+
+Episode 186 ==> CRASH {-1.64,-0.48,-70.32}    22/02/2023 17:42:18
+episode time: 94.64 s (avg step: 4.98 s) 
+episode steps: 19 
+episode reward: -50.00 
+episode max | avg | min reward: 0.40 | -2.78 | -50.00 
+T = 0.001135 
+
+TOO BIG STEP TIME: 3.50 s
+
+TOO BIG STEP TIME: 4.26 s
+
+TOO BIG STEP TIME: 3.73 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.92 s
+
+TOO BIG STEP TIME: 5.08 s
+
+TOO BIG STEP TIME: 3.64 s
+
+TOO BIG STEP TIME: 4.95 s
+
+---------------------------------------
+
+Episode 187 ==> CRASH {-1.46,-0.66,-130.87}    22/02/2023 17:42:50
+episode time: 32.43 s (avg step: 10.81 s) 
+episode steps: 3 
+episode reward: -50.30 
+episode max | avg | min reward: -0.30 | -25.15 | -50.00 
+T = 0.001078 
+
+TOO BIG STEP TIME: 4.50 s
+
+TOO BIG STEP TIME: 3.33 s
+
+TOO BIG STEP TIME: 4.73 s
+
+TOO BIG STEP TIME: 3.81 s
+
+TOO BIG STEP TIME: 4.34 s
+
+TOO BIG STEP TIME: 4.08 s
+
+TOO BIG STEP TIME: 5.06 s
+
+TOO BIG STEP TIME: 3.96 s
+
+TOO BIG STEP TIME: 3.80 s
+
+TOO BIG STEP TIME: 3.51 s
+
+TOO BIG STEP TIME: 3.40 s
+
+TOO BIG STEP TIME: 3.92 s
+
+TOO BIG STEP TIME: 4.28 s
+
+TOO BIG STEP TIME: 4.83 s
+
+---------------------------------------
+
+Episode 188 ==> CRASH {-1.25,-0.66,136.24}    22/02/2023 17:43:48
+episode time: 57.49 s (avg step: 6.39 s) 
+episode steps: 9 
+episode reward: -49.10 
+episode max | avg | min reward: 0.40 | -6.14 | -50.00 
+T = 0.001024 
+
+TOO BIG STEP TIME: 3.75 s
+
+TOO BIG STEP TIME: 4.26 s
+
+TOO BIG STEP TIME: 4.50 s
+
+TOO BIG STEP TIME: 3.49 s
+
+TOO BIG STEP TIME: 3.67 s
+
+TOO BIG STEP TIME: 3.53 s
+
+TOO BIG STEP TIME: 3.46 s
+
+TOO BIG STEP TIME: 3.65 s
+
+---------------------------------------
+
+Episode 189 ==> CRASH {-1.40,-0.45,-113.45}    22/02/2023 17:44:18
+episode time: 30.20 s (avg step: 10.07 s) 
+episode steps: 3 
+episode reward: -50.30 
+episode max | avg | min reward: -0.30 | -25.15 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 5.02 s
+
+TOO BIG STEP TIME: 3.90 s
+
+TOO BIG STEP TIME: 3.78 s
+
+TOO BIG STEP TIME: 3.42 s
+
+TOO BIG STEP TIME: 3.90 s
+
+TOO BIG STEP TIME: 3.88 s
+
+TOO BIG STEP TIME: 3.59 s
+
+TOO BIG STEP TIME: 4.06 s
+
+TOO BIG STEP TIME: 12.20 s
+
+TOO BIG STEP TIME: 13.12 s
+
+TOO BIG STEP TIME: 7.47 s
+
+---------------------------------------
+
+Episode 190 ==> CRASH {-1.42,-0.35,-128.37}    22/02/2023 17:45:23
+episode time: 64.26 s (avg step: 21.42 s) 
+episode steps: 3 
+episode reward: -50.30 
+episode max | avg | min reward: -0.30 | -25.15 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 6.12 s
+
+TOO BIG STEP TIME: 6.13 s
+
+TOO BIG STEP TIME: 4.70 s
+
+TOO BIG STEP TIME: 3.93 s
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.32 s
+
+TOO BIG STEP TIME: 3.82 s
+
+TOO BIG STEP TIME: 4.08 s
+
+TOO BIG STEP TIME: 3.40 s
+
+TOO BIG STEP TIME: 3.73 s
+
+TOO BIG STEP TIME: 4.53 s
+
+TOO BIG STEP TIME: 3.80 s
+
+TOO BIG STEP TIME: 3.80 s
+
+TOO BIG STEP TIME: 3.68 s
+
+TOO BIG STEP TIME: 4.15 s
+
+TOO BIG STEP TIME: 3.65 s
+
+TOO BIG STEP TIME: 3.60 s
+
+TOO BIG STEP TIME: 4.16 s
+
+TOO BIG STEP TIME: 3.68 s
+
+TOO BIG STEP TIME: 3.95 s
+
+TOO BIG STEP TIME: 3.53 s
+
+TOO BIG STEP TIME: 4.06 s
+
+TOO BIG STEP TIME: 3.57 s
+
+TOO BIG STEP TIME: 3.68 s
+
+TOO BIG STEP TIME: 3.96 s
+
+TOO BIG STEP TIME: 3.75 s
+
+TOO BIG STEP TIME: 3.56 s
+
+TOO BIG STEP TIME: 4.88 s
+
+TOO BIG STEP TIME: 7.31 s
+
+TOO BIG STEP TIME: 5.34 s
+
+TOO BIG STEP TIME: 4.76 s
+
+TOO BIG STEP TIME: 4.22 s
+
+TOO BIG STEP TIME: 4.24 s
+
+TOO BIG STEP TIME: 4.44 s
+
+TOO BIG STEP TIME: 4.95 s
+
+TOO BIG STEP TIME: 5.29 s
+
+TOO BIG STEP TIME: 4.90 s
+
+TOO BIG STEP TIME: 5.04 s
+
+TOO BIG STEP TIME: 5.59 s
+
+---------------------------------------
+
+Episode 191 ==> CRASH {-1.47,-0.47,66.61}    22/02/2023 17:48:11
+episode time: 168.55 s (avg step: 12.04 s) 
+episode steps: 14 
+episode reward: -50.80 
+episode max | avg | min reward: 0.40 | -3.91 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.03 s
+
+TOO BIG STEP TIME: 4.56 s
+
+TOO BIG STEP TIME: 5.16 s
+
+TOO BIG STEP TIME: 4.83 s
+
+TOO BIG STEP TIME: 4.29 s
+
+TOO BIG STEP TIME: 4.51 s
+
+TOO BIG STEP TIME: 3.73 s
+
+TOO BIG STEP TIME: 4.39 s
+
+TOO BIG STEP TIME: 3.71 s
+
+TOO BIG STEP TIME: 4.41 s
+
+TOO BIG STEP TIME: 5.10 s
+
+TOO BIG STEP TIME: 5.09 s
+
+TOO BIG STEP TIME: 3.87 s
+
+TOO BIG STEP TIME: 4.87 s
+
+TOO BIG STEP TIME: 4.54 s
+
+TOO BIG STEP TIME: 4.06 s
+
+TOO BIG STEP TIME: 5.57 s
+
+TOO BIG STEP TIME: 4.53 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 3.54 s
+
+TOO BIG STEP TIME: 4.64 s
+
+TOO BIG STEP TIME: 4.35 s
+
+TOO BIG STEP TIME: 4.79 s
+
+TOO BIG STEP TIME: 6.89 s
+
+TOO BIG STEP TIME: 4.99 s
+
+TOO BIG STEP TIME: 4.23 s
+
+---------------------------------------
+
+Episode 192 ==> CRASH {-1.61,-0.55,-161.75}    22/02/2023 17:50:10
+episode time: 118.98 s (avg step: 7.93 s) 
+episode steps: 15 
+episode reward: -50.20 
+episode max | avg | min reward: 0.40 | -3.59 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.52 s
+
+TOO BIG STEP TIME: 5.05 s
+
+TOO BIG STEP TIME: 4.56 s
+
+TOO BIG STEP TIME: 4.18 s
+
+TOO BIG STEP TIME: 4.67 s
+
+TOO BIG STEP TIME: 4.17 s
+
+TOO BIG STEP TIME: 4.80 s
+
+TOO BIG STEP TIME: 4.32 s
+
+TOO BIG STEP TIME: 4.49 s
+
+TOO BIG STEP TIME: 3.45 s
+
+TOO BIG STEP TIME: 4.34 s
+
+TOO BIG STEP TIME: 4.13 s
+
+TOO BIG STEP TIME: 3.96 s
+
+TOO BIG STEP TIME: 4.22 s
+
+TOO BIG STEP TIME: 3.98 s
+
+TOO BIG STEP TIME: 6.53 s
+
+TOO BIG STEP TIME: 5.15 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 4.54 s
+
+TOO BIG STEP TIME: 4.56 s
+
+TOO BIG STEP TIME: 4.08 s
+
+TOO BIG STEP TIME: 4.07 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 4.27 s
+
+TOO BIG STEP TIME: 4.44 s
+
+TOO BIG STEP TIME: 14.30 s
+
+TOO BIG STEP TIME: 12.04 s
+
+TOO BIG STEP TIME: 8.38 s
+
+TOO BIG STEP TIME: 6.38 s
+
+TOO BIG STEP TIME: 6.17 s
+
+---------------------------------------
+
+Episode 193 ==> CRASH {-1.44,-0.47,46.38}    22/02/2023 17:52:49
+episode time: 158.38 s (avg step: 7.54 s) 
+episode steps: 21 
+episode reward: -48.70 
+episode max | avg | min reward: 0.40 | -2.44 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.72 s
+
+TOO BIG STEP TIME: 3.66 s
+
+TOO BIG STEP TIME: 3.91 s
+
+TOO BIG STEP TIME: 3.41 s
+
+TOO BIG STEP TIME: 4.48 s
+
+TOO BIG STEP TIME: 4.28 s
+
+TOO BIG STEP TIME: 4.52 s
+
+TOO BIG STEP TIME: 4.21 s
+
+TOO BIG STEP TIME: 3.93 s
+
+TOO BIG STEP TIME: 3.54 s
+
+TOO BIG STEP TIME: 4.08 s
+
+TOO BIG STEP TIME: 4.31 s
+
+TOO BIG STEP TIME: 4.42 s
+
+TOO BIG STEP TIME: 4.15 s
+
+TOO BIG STEP TIME: 4.70 s
+
+---------------------------------------
+
+Episode 194 ==> CRASH {-1.47,-0.40,-98.66}    22/02/2023 17:53:51
+episode time: 62.22 s (avg step: 31.11 s) 
+episode steps: 2 
+episode reward: -50.00 
+episode max | avg | min reward: -50.00 | -50.00 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 3.74 s
+
+TOO BIG STEP TIME: 3.98 s
+
+TOO BIG STEP TIME: 3.97 s
+
+TOO BIG STEP TIME: 3.42 s
+
+TOO BIG STEP TIME: 5.00 s
+
+TOO BIG STEP TIME: 4.26 s
+
+TOO BIG STEP TIME: 3.97 s
+
+TOO BIG STEP TIME: 3.52 s
+
+TOO BIG STEP TIME: 4.07 s
+
+TOO BIG STEP TIME: 3.74 s
+
+TOO BIG STEP TIME: 3.59 s
+
+TOO BIG STEP TIME: 3.97 s
+
+TOO BIG STEP TIME: 4.81 s
+
+TOO BIG STEP TIME: 4.03 s
+
+TOO BIG STEP TIME: 3.76 s
+
+TOO BIG STEP TIME: 4.61 s
+
+TOO BIG STEP TIME: 4.78 s
+
+TOO BIG STEP TIME: 4.06 s
+
+TOO BIG STEP TIME: 3.35 s
+
+TOO BIG STEP TIME: 4.01 s
+
+TOO BIG STEP TIME: 3.75 s
+
+TOO BIG STEP TIME: 4.26 s
+
+TOO BIG STEP TIME: 4.02 s
+
+TOO BIG STEP TIME: 3.40 s
+
+TOO BIG STEP TIME: 4.01 s
+
+TOO BIG STEP TIME: 3.62 s
+
+TOO BIG STEP TIME: 3.84 s
+
+---------------------------------------
+
+Episode 195 ==> CRASH {-1.59,-0.50,125.21}    22/02/2023 17:55:39
+episode time: 107.46 s (avg step: 4.48 s) 
+episode steps: 24 
+episode reward: -47.10 
+episode max | avg | min reward: 0.60 | -2.05 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 3.39 s
+
+TOO BIG STEP TIME: 3.85 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 4.23 s
+
+TOO BIG STEP TIME: 4.19 s
+
+TOO BIG STEP TIME: 4.48 s
+
+TOO BIG STEP TIME: 3.91 s
+
+---------------------------------------
+
+Episode 196 ==> CRASH {-1.38,-0.52,-111.21}    22/02/2023 17:56:07
+episode time: 28.37 s (avg step: 7.09 s) 
+episode steps: 4 
+episode reward: -49.90 
+episode max | avg | min reward: 0.40 | -16.63 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.21 s
+
+TOO BIG STEP TIME: 4.11 s
+
+TOO BIG STEP TIME: 3.90 s
+
+TOO BIG STEP TIME: 4.42 s
+
+TOO BIG STEP TIME: 4.97 s
+
+TOO BIG STEP TIME: 3.99 s
+
+TOO BIG STEP TIME: 4.28 s
+
+TOO BIG STEP TIME: 4.25 s
+
+TOO BIG STEP TIME: 3.84 s
+
+TOO BIG STEP TIME: 4.22 s
+
+TOO BIG STEP TIME: 4.33 s
+
+TOO BIG STEP TIME: 4.81 s
+
+TOO BIG STEP TIME: 4.07 s
+
+TOO BIG STEP TIME: 4.53 s
+
+TOO BIG STEP TIME: 4.57 s
+
+TOO BIG STEP TIME: 4.59 s
+
+TOO BIG STEP TIME: 4.10 s
+
+TOO BIG STEP TIME: 4.38 s
+
+TOO BIG STEP TIME: 4.47 s
+
+TOO BIG STEP TIME: 4.09 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 4.22 s
+
+TOO BIG STEP TIME: 4.26 s
+
+TOO BIG STEP TIME: 3.85 s
+
+TOO BIG STEP TIME: 4.97 s
+
+TOO BIG STEP TIME: 4.50 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 4.27 s
+
+TOO BIG STEP TIME: 4.51 s
+
+TOO BIG STEP TIME: 4.64 s
+
+TOO BIG STEP TIME: 4.10 s
+
+TOO BIG STEP TIME: 4.39 s
+
+TOO BIG STEP TIME: 4.13 s
+
+TOO BIG STEP TIME: 3.96 s
+
+TOO BIG STEP TIME: 4.63 s
+
+TOO BIG STEP TIME: 4.49 s
+
+TOO BIG STEP TIME: 4.32 s
+
+TOO BIG STEP TIME: 4.53 s
+
+TOO BIG STEP TIME: 3.86 s
+
+TOO BIG STEP TIME: 3.93 s
+
+TOO BIG STEP TIME: 3.71 s
+
+TOO BIG STEP TIME: 4.63 s
+
+TOO BIG STEP TIME: 4.13 s
+
+TOO BIG STEP TIME: 4.09 s
+
+TOO BIG STEP TIME: 4.83 s
+
+TOO BIG STEP TIME: 4.13 s
+
+---------------------------------------
+
+Episode 197 ==> CRASH {-1.91,-0.50,9.65}    22/02/2023 17:59:25
+episode time: 197.97 s (avg step: 11.65 s) 
+episode steps: 17 
+episode reward: -47.30 
+episode max | avg | min reward: 0.60 | -2.96 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.08 s
+
+TOO BIG STEP TIME: 3.76 s
+
+TOO BIG STEP TIME: 3.95 s
+
+TOO BIG STEP TIME: 4.36 s
+
+TOO BIG STEP TIME: 4.67 s
+
+TOO BIG STEP TIME: 4.14 s
+
+TOO BIG STEP TIME: 4.30 s
+
+TOO BIG STEP TIME: 3.94 s
+
+TOO BIG STEP TIME: 4.74 s
+
+TOO BIG STEP TIME: 3.48 s
+
+TOO BIG STEP TIME: 4.96 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 3.66 s
+
+TOO BIG STEP TIME: 4.64 s
+
+TOO BIG STEP TIME: 3.77 s
+
+TOO BIG STEP TIME: 3.69 s
+
+TOO BIG STEP TIME: 3.50 s
+
+TOO BIG STEP TIME: 4.45 s
+
+TOO BIG STEP TIME: 3.92 s
+
+TOO BIG STEP TIME: 4.23 s
+
+TOO BIG STEP TIME: 4.62 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 4.03 s
+
+TOO BIG STEP TIME: 4.24 s
+
+TOO BIG STEP TIME: 4.80 s
+
+TOO BIG STEP TIME: 4.72 s
+
+TOO BIG STEP TIME: 4.48 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 4.06 s
+
+TOO BIG STEP TIME: 4.28 s
+
+TOO BIG STEP TIME: 4.23 s
+
+TOO BIG STEP TIME: 4.55 s
+
+TOO BIG STEP TIME: 4.67 s
+
+TOO BIG STEP TIME: 3.83 s
+
+---------------------------------------
+
+Episode 198 ==> CRASH {-1.61,-0.47,107.01}    22/02/2023 18:01:49
+episode time: 143.77 s (avg step: 5.75 s) 
+episode steps: 25 
+episode reward: -49.00 
+episode max | avg | min reward: 0.40 | -2.04 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.18 s
+
+TOO BIG STEP TIME: 4.72 s
+
+TOO BIG STEP TIME: 4.49 s
+
+TOO BIG STEP TIME: 4.12 s
+
+TOO BIG STEP TIME: 4.33 s
+
+TOO BIG STEP TIME: 4.03 s
+
+TOO BIG STEP TIME: 3.93 s
+
+TOO BIG STEP TIME: 4.42 s
+
+TOO BIG STEP TIME: 4.67 s
+
+TOO BIG STEP TIME: 4.03 s
+
+TOO BIG STEP TIME: 4.80 s
+
+TOO BIG STEP TIME: 4.13 s
+
+TOO BIG STEP TIME: 4.74 s
+
+TOO BIG STEP TIME: 4.70 s
+
+TOO BIG STEP TIME: 4.68 s
+
+TOO BIG STEP TIME: 4.20 s
+
+TOO BIG STEP TIME: 5.25 s
+
+TOO BIG STEP TIME: 4.94 s
+
+TOO BIG STEP TIME: 4.49 s
+
+TOO BIG STEP TIME: 5.01 s
+
+TOO BIG STEP TIME: 4.47 s
+
+TOO BIG STEP TIME: 5.25 s
+
+TOO BIG STEP TIME: 6.31 s
+
+TOO BIG STEP TIME: 5.28 s
+
+TOO BIG STEP TIME: 4.40 s
+
+TOO BIG STEP TIME: 4.20 s
+
+TOO BIG STEP TIME: 4.64 s
+
+TOO BIG STEP TIME: 4.49 s
+
+TOO BIG STEP TIME: 5.67 s
+
+TOO BIG STEP TIME: 7.11 s
+
+TOO BIG STEP TIME: 7.33 s
+
+TOO BIG STEP TIME: 5.36 s
+
+TOO BIG STEP TIME: 5.31 s
+
+TOO BIG STEP TIME: 5.28 s
+
+TOO BIG STEP TIME: 4.58 s
+
+TOO BIG STEP TIME: 4.92 s
+
+---------------------------------------
+
+Episode 199 ==> CRASH {-1.52,-0.55,-70.66}    22/02/2023 18:04:44
+episode time: 174.44 s (avg step: 9.18 s) 
+episode steps: 19 
+episode reward: -49.80 
+episode max | avg | min reward: 0.40 | -2.77 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 5.82 s
+
+TOO BIG STEP TIME: 4.86 s
+
+TOO BIG STEP TIME: 4.90 s
+
+TOO BIG STEP TIME: 5.52 s
+
+TOO BIG STEP TIME: 5.49 s
+
+TOO BIG STEP TIME: 5.15 s
+
+TOO BIG STEP TIME: 4.80 s
+
+TOO BIG STEP TIME: 4.52 s
+
+TOO BIG STEP TIME: 4.60 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 4.41 s
+
+TOO BIG STEP TIME: 5.00 s
+
+TOO BIG STEP TIME: 4.48 s
+
+TOO BIG STEP TIME: 5.02 s
+
+TOO BIG STEP TIME: 5.19 s
+
+TOO BIG STEP TIME: 5.10 s
+
+TOO BIG STEP TIME: 5.07 s
+
+TOO BIG STEP TIME: 4.76 s
+
+TOO BIG STEP TIME: 4.36 s
+
+TOO BIG STEP TIME: 4.31 s
+
+TOO BIG STEP TIME: 4.05 s
+
+TOO BIG STEP TIME: 4.88 s
+
+TOO BIG STEP TIME: 4.60 s
+
+TOO BIG STEP TIME: 4.73 s
+
+TOO BIG STEP TIME: 4.12 s
+
+TOO BIG STEP TIME: 4.83 s
+
+TOO BIG STEP TIME: 4.47 s
+
+TOO BIG STEP TIME: 4.33 s
+
+TOO BIG STEP TIME: 5.12 s
+
+TOO BIG STEP TIME: 4.20 s
+
+TOO BIG STEP TIME: 4.17 s
+
+TOO BIG STEP TIME: 4.07 s
+
+TOO BIG STEP TIME: 5.45 s
+
+TOO BIG STEP TIME: 4.57 s
+
+TOO BIG STEP TIME: 4.66 s
+
+---------------------------------------
+
+Episode 200 ==> CRASH {-1.67,-0.40,-15.67}    22/02/2023 18:07:30
+episode time: 165.97 s (avg step: 6.38 s) 
+episode steps: 26 
+episode reward: -47.20 
+episode max | avg | min reward: 0.60 | -1.89 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.66 s
+
+TOO BIG STEP TIME: 4.72 s
+
+TOO BIG STEP TIME: 3.74 s
+
+TOO BIG STEP TIME: 4.69 s
+
+TOO BIG STEP TIME: 5.30 s
+
+TOO BIG STEP TIME: 5.16 s
+
+TOO BIG STEP TIME: 4.34 s
+
+TOO BIG STEP TIME: 5.34 s
+
+TOO BIG STEP TIME: 4.59 s
+
+TOO BIG STEP TIME: 4.99 s
+
+TOO BIG STEP TIME: 3.97 s
+
+TOO BIG STEP TIME: 4.55 s
+
+TOO BIG STEP TIME: 5.01 s
+
+TOO BIG STEP TIME: 4.24 s
+
+TOO BIG STEP TIME: 4.53 s
+
+TOO BIG STEP TIME: 4.42 s
+
+TOO BIG STEP TIME: 4.21 s
+
+TOO BIG STEP TIME: 4.15 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 4.92 s
+
+TOO BIG STEP TIME: 4.68 s
+
+TOO BIG STEP TIME: 4.43 s
+
+TOO BIG STEP TIME: 4.53 s
+
+TOO BIG STEP TIME: 4.10 s
+
+---------------------------------------
+
+Episode 201 ==> CRASH {-1.58,-0.50,111.72}    22/02/2023 18:09:19
+episode time: 109.57 s (avg step: 7.30 s) 
+episode steps: 15 
+episode reward: -50.40 
+episode max | avg | min reward: 0.40 | -3.60 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.46 s
+
+TOO BIG STEP TIME: 3.95 s
+
+TOO BIG STEP TIME: 4.38 s
+
+TOO BIG STEP TIME: 4.87 s
+
+TOO BIG STEP TIME: 5.50 s
+
+TOO BIG STEP TIME: 4.65 s
+
+TOO BIG STEP TIME: 4.84 s
+
+TOO BIG STEP TIME: 4.95 s
+
+TOO BIG STEP TIME: 4.74 s
+
+TOO BIG STEP TIME: 5.01 s
+
+TOO BIG STEP TIME: 4.44 s
+
+TOO BIG STEP TIME: 5.38 s
+
+TOO BIG STEP TIME: 5.12 s
+
+TOO BIG STEP TIME: 4.80 s
+
+TOO BIG STEP TIME: 4.67 s
+
+TOO BIG STEP TIME: 5.09 s
+
+TOO BIG STEP TIME: 4.56 s
+
+TOO BIG STEP TIME: 4.73 s
+
+TOO BIG STEP TIME: 4.75 s
+
+TOO BIG STEP TIME: 4.22 s
+
+TOO BIG STEP TIME: 4.21 s
+
+TOO BIG STEP TIME: 4.03 s
+
+TOO BIG STEP TIME: 4.40 s
+
+TOO BIG STEP TIME: 7.03 s
+
+TOO BIG STEP TIME: 4.32 s
+
+TOO BIG STEP TIME: 5.00 s
+
+TOO BIG STEP TIME: 4.79 s
+
+TOO BIG STEP TIME: 4.20 s
+
+TOO BIG STEP TIME: 4.85 s
+
+TOO BIG STEP TIME: 3.93 s
+
+TOO BIG STEP TIME: 4.52 s
+
+TOO BIG STEP TIME: 4.50 s
+
+---------------------------------------
+
+Episode 202 ==> CRASH {-1.35,-0.53,-2.90}    22/02/2023 18:11:50
+episode time: 150.83 s (avg step: 7.18 s) 
+episode steps: 21 
+episode reward: -50.10 
+episode max | avg | min reward: 0.40 | -2.50 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.63 s
+
+TOO BIG STEP TIME: 4.09 s
+
+TOO BIG STEP TIME: 4.38 s
+
+TOO BIG STEP TIME: 4.02 s
+
+TOO BIG STEP TIME: 4.63 s
+
+TOO BIG STEP TIME: 4.90 s
+
+TOO BIG STEP TIME: 4.46 s
+
+TOO BIG STEP TIME: 4.24 s
+
+TOO BIG STEP TIME: 4.87 s
+
+TOO BIG STEP TIME: 4.69 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 4.39 s
+
+TOO BIG STEP TIME: 4.54 s
+
+TOO BIG STEP TIME: 4.69 s
+
+TOO BIG STEP TIME: 6.40 s
+
+TOO BIG STEP TIME: 5.02 s
+
+TOO BIG STEP TIME: 7.59 s
+
+TOO BIG STEP TIME: 4.71 s
+
+TOO BIG STEP TIME: 5.96 s
+
+TOO BIG STEP TIME: 5.87 s
+
+TOO BIG STEP TIME: 8.26 s
+
+TOO BIG STEP TIME: 4.95 s
+
+TOO BIG STEP TIME: 5.49 s
+
+---------------------------------------
+
+Episode 203 ==> CRASH {-1.15,-0.76,-135.68}    22/02/2023 18:13:47
+episode time: 117.06 s (avg step: 6.89 s) 
+episode steps: 17 
+episode reward: -49.60 
+episode max | avg | min reward: 0.40 | -3.10 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.35 s
+
+TOO BIG STEP TIME: 5.12 s
+
+TOO BIG STEP TIME: 5.53 s
+
+TOO BIG STEP TIME: 4.76 s
+
+TOO BIG STEP TIME: 5.10 s
+
+TOO BIG STEP TIME: 4.76 s
+
+TOO BIG STEP TIME: 4.98 s
+
+TOO BIG STEP TIME: 5.13 s
+
+TOO BIG STEP TIME: 5.37 s
+
+TOO BIG STEP TIME: 4.54 s
+
+TOO BIG STEP TIME: 4.85 s
+
+TOO BIG STEP TIME: 4.68 s
+
+TOO BIG STEP TIME: 4.27 s
+
+TOO BIG STEP TIME: 4.70 s
+
+TOO BIG STEP TIME: 5.05 s
+
+TOO BIG STEP TIME: 4.61 s
+
+TOO BIG STEP TIME: 4.98 s
+
+TOO BIG STEP TIME: 4.93 s
+
+TOO BIG STEP TIME: 4.37 s
+
+TOO BIG STEP TIME: 4.72 s
+
+TOO BIG STEP TIME: 4.75 s
+
+TOO BIG STEP TIME: 5.19 s
+
+TOO BIG STEP TIME: 5.23 s
+
+TOO BIG STEP TIME: 4.31 s
+
+TOO BIG STEP TIME: 6.34 s
+
+TOO BIG STEP TIME: 4.89 s
+
+TOO BIG STEP TIME: 5.46 s
+
+TOO BIG STEP TIME: 4.96 s
+
+TOO BIG STEP TIME: 4.81 s
+
+TOO BIG STEP TIME: 5.03 s
+
+TOO BIG STEP TIME: 5.01 s
+
+TOO BIG STEP TIME: 4.69 s
+
+TOO BIG STEP TIME: 4.51 s
+
+TOO BIG STEP TIME: 5.17 s
+
+---------------------------------------
+
+Episode 204 ==> CRASH {-1.68,-0.52,-161.74}    22/02/2023 18:16:35
+episode time: 167.09 s (avg step: 8.79 s) 
+episode steps: 19 
+episode reward: -48.80 
+episode max | avg | min reward: 0.40 | -2.71 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 5.29 s
+
+TOO BIG STEP TIME: 5.20 s
+
+TOO BIG STEP TIME: 5.05 s
+
+TOO BIG STEP TIME: 5.12 s
+
+TOO BIG STEP TIME: 4.70 s
+
+TOO BIG STEP TIME: 4.22 s
+
+TOO BIG STEP TIME: 3.98 s
+
+TOO BIG STEP TIME: 4.88 s
+
+TOO BIG STEP TIME: 4.93 s
+
+TOO BIG STEP TIME: 4.54 s
+
+TOO BIG STEP TIME: 6.53 s
+
+TOO BIG STEP TIME: 4.78 s
+
+TOO BIG STEP TIME: 4.45 s
+
+TOO BIG STEP TIME: 5.52 s
+
+TOO BIG STEP TIME: 5.49 s
+
+TOO BIG STEP TIME: 5.22 s
+
+TOO BIG STEP TIME: 4.71 s
+
+TOO BIG STEP TIME: 5.48 s
+
+TOO BIG STEP TIME: 4.54 s
+
+TOO BIG STEP TIME: 4.29 s
+
+TOO BIG STEP TIME: 4.66 s
+
+TOO BIG STEP TIME: 5.56 s
+
+TOO BIG STEP TIME: 5.35 s
+
+TOO BIG STEP TIME: 4.66 s
+
+---------------------------------------
+
+Episode 205 ==> CRASH {-1.61,-0.37,-32.76}    22/02/2023 18:18:34
+episode time: 119.00 s (avg step: 6.61 s) 
+episode steps: 18 
+episode reward: -50.60 
+episode max | avg | min reward: 0.40 | -2.98 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.66 s
+
+TOO BIG STEP TIME: 4.67 s
+
+TOO BIG STEP TIME: 4.30 s
+
+TOO BIG STEP TIME: 5.96 s
+
+TOO BIG STEP TIME: 4.44 s
+
+TOO BIG STEP TIME: 4.83 s
+
+TOO BIG STEP TIME: 5.59 s
+
+TOO BIG STEP TIME: 4.47 s
+
+TOO BIG STEP TIME: 4.09 s
+
+TOO BIG STEP TIME: 4.84 s
+
+TOO BIG STEP TIME: 4.49 s
+
+TOO BIG STEP TIME: 5.08 s
+
+TOO BIG STEP TIME: 5.95 s
+
+---------------------------------------
+
+Episode 206 ==> CRASH {-1.34,-0.64,-2.65}    22/02/2023 18:19:37
+episode time: 63.24 s (avg step: 10.54 s) 
+episode steps: 6 
+episode reward: -50.50 
+episode max | avg | min reward: 0.40 | -10.10 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 6.23 s
+
+TOO BIG STEP TIME: 5.97 s
+
+TOO BIG STEP TIME: 6.36 s
+
+TOO BIG STEP TIME: 6.23 s
+
+TOO BIG STEP TIME: 6.14 s
+
+TOO BIG STEP TIME: 5.80 s
+
+TOO BIG STEP TIME: 6.02 s
+
+TOO BIG STEP TIME: 5.25 s
+
+TOO BIG STEP TIME: 4.52 s
+
+---------------------------------------
+
+Episode 207 ==> CRASH {-1.61,-0.50,148.96}    22/02/2023 18:20:30
+episode time: 52.44 s (avg step: 8.74 s) 
+episode steps: 6 
+episode reward: -49.80 
+episode max | avg | min reward: 0.40 | -9.96 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.57 s
+
+TOO BIG STEP TIME: 5.66 s
+
+TOO BIG STEP TIME: 4.45 s
+
+TOO BIG STEP TIME: 4.46 s
+
+TOO BIG STEP TIME: 3.79 s
+
+TOO BIG STEP TIME: 4.18 s
+
+TOO BIG STEP TIME: 4.86 s
+
+TOO BIG STEP TIME: 4.80 s
+
+TOO BIG STEP TIME: 4.67 s
+
+TOO BIG STEP TIME: 4.61 s
+
+TOO BIG STEP TIME: 5.10 s
+
+TOO BIG STEP TIME: 4.01 s
+
+TOO BIG STEP TIME: 4.64 s
+
+TOO BIG STEP TIME: 4.91 s
+
+TOO BIG STEP TIME: 4.59 s
+
+TOO BIG STEP TIME: 5.57 s
+
+TOO BIG STEP TIME: 4.86 s
+
+TOO BIG STEP TIME: 4.52 s
+
+TOO BIG STEP TIME: 4.84 s
+
+TOO BIG STEP TIME: 7.15 s
+
+TOO BIG STEP TIME: 7.47 s
+
+TOO BIG STEP TIME: 4.78 s
+
+TOO BIG STEP TIME: 5.53 s
+
+TOO BIG STEP TIME: 4.70 s
+
+TOO BIG STEP TIME: 5.81 s
+
+TOO BIG STEP TIME: 7.25 s
+
+TOO BIG STEP TIME: 4.88 s
+
+TOO BIG STEP TIME: 5.64 s
+
+---------------------------------------
+
+Episode 208 ==> CRASH {-1.44,-0.46,48.43}    22/02/2023 18:22:52
+episode time: 142.20 s (avg step: 5.69 s) 
+episode steps: 25 
+episode reward: -47.80 
+episode max | avg | min reward: 0.40 | -1.99 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.88 s
+
+TOO BIG STEP TIME: 5.12 s
+
+TOO BIG STEP TIME: 4.96 s
+
+TOO BIG STEP TIME: 4.73 s
+
+TOO BIG STEP TIME: 6.35 s
+
+TOO BIG STEP TIME: 5.21 s
+
+TOO BIG STEP TIME: 5.35 s
+
+TOO BIG STEP TIME: 5.61 s
+
+TOO BIG STEP TIME: 5.01 s
+
+TOO BIG STEP TIME: 4.84 s
+
+TOO BIG STEP TIME: 5.37 s
+
+TOO BIG STEP TIME: 6.11 s
+
+TOO BIG STEP TIME: 5.37 s
+
+TOO BIG STEP TIME: 5.41 s
+
+TOO BIG STEP TIME: 5.41 s
+
+TOO BIG STEP TIME: 5.36 s
+
+TOO BIG STEP TIME: 6.35 s
+
+TOO BIG STEP TIME: 5.45 s
+
+TOO BIG STEP TIME: 5.07 s
+
+TOO BIG STEP TIME: 5.88 s
+
+TOO BIG STEP TIME: 4.75 s
+
+TOO BIG STEP TIME: 5.15 s
+
+TOO BIG STEP TIME: 5.59 s
+
+TOO BIG STEP TIME: 5.86 s
+
+TOO BIG STEP TIME: 4.94 s
+
+TOO BIG STEP TIME: 4.99 s
+
+TOO BIG STEP TIME: 4.92 s
+
+TOO BIG STEP TIME: 5.25 s
+
+TOO BIG STEP TIME: 5.73 s
+
+TOO BIG STEP TIME: 4.65 s
+
+TOO BIG STEP TIME: 4.94 s
+
+TOO BIG STEP TIME: 5.82 s
+
+TOO BIG STEP TIME: 5.06 s
+
+TOO BIG STEP TIME: 4.70 s
+
+TOO BIG STEP TIME: 5.04 s
+
+TOO BIG STEP TIME: 5.30 s
+
+TOO BIG STEP TIME: 5.36 s
+
+TOO BIG STEP TIME: 4.68 s
+
+TOO BIG STEP TIME: 5.20 s
+
+TOO BIG STEP TIME: 4.68 s
+
+TOO BIG STEP TIME: 5.92 s
+
+TOO BIG STEP TIME: 6.28 s
+
+---------------------------------------
+
+Episode 209 ==> CRASH {-1.68,-0.55,-152.92}    22/02/2023 18:26:35
+episode time: 222.54 s (avg step: 15.90 s) 
+episode steps: 14 
+episode reward: -48.70 
+episode max | avg | min reward: 0.40 | -3.75 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.93 s
+
+TOO BIG STEP TIME: 5.30 s
+
+TOO BIG STEP TIME: 6.06 s
+
+TOO BIG STEP TIME: 4.89 s
+
+TOO BIG STEP TIME: 4.82 s
+
+TOO BIG STEP TIME: 4.50 s
+
+TOO BIG STEP TIME: 6.43 s
+
+TOO BIG STEP TIME: 5.50 s
+
+TOO BIG STEP TIME: 5.50 s
+
+TOO BIG STEP TIME: 5.20 s
+
+TOO BIG STEP TIME: 4.99 s
+
+TOO BIG STEP TIME: 4.69 s
+
+TOO BIG STEP TIME: 5.58 s
+
+TOO BIG STEP TIME: 5.49 s
+
+TOO BIG STEP TIME: 5.57 s
+
+TOO BIG STEP TIME: 5.97 s
+
+TOO BIG STEP TIME: 4.94 s
+
+TOO BIG STEP TIME: 5.70 s
+
+TOO BIG STEP TIME: 4.93 s
+
+TOO BIG STEP TIME: 5.53 s
+
+TOO BIG STEP TIME: 5.20 s
+
+TOO BIG STEP TIME: 4.98 s
+
+TOO BIG STEP TIME: 5.34 s
+
+TOO BIG STEP TIME: 4.69 s
+
+TOO BIG STEP TIME: 5.67 s
+
+TOO BIG STEP TIME: 5.00 s
+
+TOO BIG STEP TIME: 5.14 s
+
+TOO BIG STEP TIME: 6.78 s
+
+TOO BIG STEP TIME: 5.05 s
+
+TOO BIG STEP TIME: 4.88 s
+
+TOO BIG STEP TIME: 4.69 s
+
+TOO BIG STEP TIME: 5.76 s
+
+TOO BIG STEP TIME: 4.97 s
+
+TOO BIG STEP TIME: 4.95 s
+
+TOO BIG STEP TIME: 4.23 s
+
+TOO BIG STEP TIME: 9.64 s
+
+TOO BIG STEP TIME: 6.68 s
+
+TOO BIG STEP TIME: 4.87 s
+
+TOO BIG STEP TIME: 5.61 s
+
+TOO BIG STEP TIME: 4.96 s
+
+TOO BIG STEP TIME: 4.71 s
+
+TOO BIG STEP TIME: 4.78 s
+
+---------------------------------------
+
+Episode 210 ==> CRASH {-1.36,-0.51,0.34}    22/02/2023 18:30:20
+episode time: 225.06 s (avg step: 8.34 s) 
+episode steps: 27 
+episode reward: -48.40 
+episode max | avg | min reward: 0.40 | -1.86 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 5.02 s
+
+TOO BIG STEP TIME: 5.60 s
+
+TOO BIG STEP TIME: 5.58 s
+
+TOO BIG STEP TIME: 5.14 s
+
+TOO BIG STEP TIME: 4.75 s
+
+TOO BIG STEP TIME: 4.35 s
+
+TOO BIG STEP TIME: 5.72 s
+
+TOO BIG STEP TIME: 4.47 s
+
+TOO BIG STEP TIME: 5.00 s
+
+TOO BIG STEP TIME: 5.52 s
+
+TOO BIG STEP TIME: 5.31 s
+
+TOO BIG STEP TIME: 5.42 s
+
+TOO BIG STEP TIME: 4.77 s
+
+TOO BIG STEP TIME: 5.16 s
+
+TOO BIG STEP TIME: 5.45 s
+
+TOO BIG STEP TIME: 5.79 s
+
+TOO BIG STEP TIME: 4.62 s
+
+TOO BIG STEP TIME: 5.24 s
+
+TOO BIG STEP TIME: 4.86 s
+
+TOO BIG STEP TIME: 5.73 s
+
+TOO BIG STEP TIME: 4.90 s
+
+TOO BIG STEP TIME: 4.80 s
+
+TOO BIG STEP TIME: 6.25 s
+
+TOO BIG STEP TIME: 4.98 s
+
+TOO BIG STEP TIME: 4.88 s
+
+TOO BIG STEP TIME: 4.48 s
+
+TOO BIG STEP TIME: 5.08 s
+
+TOO BIG STEP TIME: 5.31 s
+
+TOO BIG STEP TIME: 4.76 s
+
+TOO BIG STEP TIME: 4.61 s
+
+TOO BIG STEP TIME: 4.48 s
+
+TOO BIG STEP TIME: 4.32 s
+
+TOO BIG STEP TIME: 6.10 s
+
+TOO BIG STEP TIME: 4.39 s
+
+TOO BIG STEP TIME: 5.68 s
+
+TOO BIG STEP TIME: 6.06 s
+
+TOO BIG STEP TIME: 5.48 s
+
+TOO BIG STEP TIME: 4.72 s
+
+---------------------------------------
+
+Episode 211 ==> CRASH {-1.59,-0.40,3.74}    22/02/2023 18:33:34
+episode time: 194.70 s (avg step: 9.27 s) 
+episode steps: 21 
+episode reward: -48.70 
+episode max | avg | min reward: 0.40 | -2.44 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 7.92 s
+
+TOO BIG STEP TIME: 5.59 s
+
+TOO BIG STEP TIME: 5.96 s
+
+TOO BIG STEP TIME: 5.02 s
+
+TOO BIG STEP TIME: 5.35 s
+
+TOO BIG STEP TIME: 6.27 s
+
+TOO BIG STEP TIME: 6.77 s
+
+TOO BIG STEP TIME: 5.38 s
+
+TOO BIG STEP TIME: 5.67 s
+
+TOO BIG STEP TIME: 5.28 s
+
+TOO BIG STEP TIME: 4.93 s
+
+TOO BIG STEP TIME: 5.15 s
+
+TOO BIG STEP TIME: 5.59 s
+
+TOO BIG STEP TIME: 5.99 s
+
+TOO BIG STEP TIME: 5.59 s
+
+TOO BIG STEP TIME: 5.01 s
+
+TOO BIG STEP TIME: 5.45 s
+
+TOO BIG STEP TIME: 6.10 s
+
+TOO BIG STEP TIME: 6.66 s
+
+TOO BIG STEP TIME: 5.10 s
+
+TOO BIG STEP TIME: 5.83 s
+
+TOO BIG STEP TIME: 5.52 s
+
+TOO BIG STEP TIME: 5.31 s
+
+TOO BIG STEP TIME: 5.86 s
+
+TOO BIG STEP TIME: 5.09 s
+
+TOO BIG STEP TIME: 5.63 s
+
+TOO BIG STEP TIME: 5.75 s
+
+TOO BIG STEP TIME: 4.84 s
+
+TOO BIG STEP TIME: 4.62 s
+
+TOO BIG STEP TIME: 5.67 s
+
+TOO BIG STEP TIME: 5.13 s
+
+TOO BIG STEP TIME: 5.58 s
+
+TOO BIG STEP TIME: 5.78 s
+
+TOO BIG STEP TIME: 5.24 s
+
+TOO BIG STEP TIME: 4.73 s
+
+TOO BIG STEP TIME: 5.45 s
+
+TOO BIG STEP TIME: 4.87 s
+
+TOO BIG STEP TIME: 4.98 s
+
+TOO BIG STEP TIME: 4.64 s
+
+TOO BIG STEP TIME: 4.85 s
+
+TOO BIG STEP TIME: 4.35 s
+
+TOO BIG STEP TIME: 4.46 s
+
+TOO BIG STEP TIME: 5.17 s
+
+TOO BIG STEP TIME: 5.35 s
+
+TOO BIG STEP TIME: 5.54 s
+
+TOO BIG STEP TIME: 5.31 s
+
+TOO BIG STEP TIME: 5.57 s
+
+TOO BIG STEP TIME: 5.25 s
+
+TOO BIG STEP TIME: 5.16 s
+
+---------------------------------------
+
+Episode 212 ==> CRASH {-1.63,-0.43,55.34}    22/02/2023 18:38:01
+episode time: 266.22 s (avg step: 13.31 s) 
+episode steps: 20 
+episode reward: -49.80 
+episode max | avg | min reward: 0.40 | -2.62 | -50.00 
+T = 0.000973 
+
+TOO BIG STEP TIME: 4.86 s
+
+TOO BIG STEP TIME: 4.80 s
+
+TOO BIG STEP TIME: 4.86 s
+
+TOO BIG STEP TIME: 4.69 s
+
+TOO BIG STEP TIME: 4.73 s
+
+TOO BIG STEP TIME: 5.23 s
+
+TOO BIG STEP TIME: 5.88 s
